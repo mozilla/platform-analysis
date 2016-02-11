@@ -1,0 +1,19 @@
+{
+  "name": "platform-analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "clean": "rimraf .cache"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "progress": "^1.1.8",
+    "request": "^2.69.0",
+    "rimraf": "^2.5.1",
+    "simple-statistics": "^1.0.1"
+  }
+}
