@@ -13,21 +13,21 @@ function pad(s, length) {
   return s + Array(length - s.length + 1).join(' ');
 }
 
-function Report(name) {
+function Document(name) {
   this.name = name;
   this.output = '';
 }
 
-Report.prototype.header = function (s) {
+Document.prototype.header = function (s) {
   this.output += '# ' + s + '\n\n';
 };
 
-Report.prototype.timestamp = function(d) {
+Document.prototype.timestamp = function(d) {
   if (!d) d = new Date();
   this.output += 'report generated ' + d.toString() + '\n\n';
 };
 
-Report.prototype.table = function (rows) {
+Document.prototype.table = function (rows) {
   var headers = Object.keys(rows[0]);
 
   var widths = headers.map((h) => {
@@ -45,7 +45,7 @@ Report.prototype.table = function (rows) {
   this.output += '\n';
 };
 
-Report.prototype.write = function (filename) {
+Document.prototype.write = function (filename) {
   if (!filename) {
     filename = this.name + '.md';
   }
@@ -58,4 +58,4 @@ Report.prototype.write = function (filename) {
   fs.writeFileSync(path.join(outputDir, filename), this.output);
 };
 
-module.exports = Report;
+module.exports = Document;

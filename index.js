@@ -3,7 +3,7 @@ var request = require('request');
 var stats = require('simple-statistics');
 var cache = require('./cache');
 var ProgressBar = require('progress');
-var Report = require('./report');
+var Report = require('./document');
 
 function analyze(series) {
   var points = series.data.filter(function (datum) {
@@ -114,13 +114,13 @@ cache.get('https://www.chromestatus.com/data/csspopularity')
     var compiled = timeseries.map(analyze);
 
     var rising = new Report('rising');
-    rising.header('Rising');
+    rising.header('Rising CSS Properties');
     rising.timestamp();
     rising.table(compiled.filter(row => row.trend > 0).sort(sort('max')));
     rising.write();
 
     var all = new Report('all');
-    all.header('All');
+    all.header('All CSS Properties');
     all.timestamp();
     all.table(compiled.sort(sort('feature', true)));
     all.write();
