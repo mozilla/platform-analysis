@@ -1,5 +1,7 @@
 # Prefixed vs Unprefixed Properties
 
+report generated Thu Feb 11 2016 15:25:13 GMT-0800 (PST)
+
 feature                    | bare  | prefixed | diff 
 -------------------------- | ----- | -------- | -----
 background-size            | 50.53 | 21.56    | 28.97

@@ -115,11 +115,13 @@ cache.get('https://www.chromestatus.com/data/csspopularity')
 
     var rising = new Report('rising');
     rising.header('Rising');
+    rising.timestamp();
     rising.table(compiled.filter(row => row.trend > 0).sort(sort('max')));
     rising.write();
 
     var all = new Report('all');
     all.header('All');
+    all.timestamp();
     all.table(compiled.sort(sort('feature', true)));
     all.write();
 
@@ -141,6 +143,7 @@ cache.get('https://www.chromestatus.com/data/csspopularity')
 
     var prefixReport = new Report('prefix');
     prefixReport.header('Prefixed vs Unprefixed Properties');
+    prefixReport.timestamp();
     prefixReport.table(unprefixed.sort(sort('diff')));
     prefixReport.write();
 

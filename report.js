@@ -17,8 +17,14 @@ function Report(name) {
   this.name = name;
   this.output = '';
 }
+
 Report.prototype.header = function (s) {
   this.output += '# ' + s + '\n\n';
+};
+
+Report.prototype.timestamp = function(d) {
+  if (!d) d = new Date();
+  this.output += 'report generated ' + d.toString() + '\n\n';
 };
 
 Report.prototype.table = function (rows) {

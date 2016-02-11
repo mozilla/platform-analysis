@@ -1,5 +1,7 @@
 # Rising
 
+report generated Thu Feb 11 2016 15:25:13 GMT-0800 (PST)
+
 feature                                 | max   | avg   | growth  | trend
 --------------------------------------- | ----- | ----- | ------- | -----
 background-size                         | 61.4  | 50.53 | -16.72  | 0.22 
