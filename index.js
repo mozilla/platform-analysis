@@ -185,7 +185,7 @@ cache.get('https://www.chromestatus.com/data/csspopularity')
     var trending = new Report('js-trending');
     trending.header('All CSS Properties');
     trending.timestamp();
-    trending.table(compiled.sort(sort('feature', true)));
+    trending.table(compiled.sort(sort('trend', true)));
     trending.write();
 
     console.log('Done.');
