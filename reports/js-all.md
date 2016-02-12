@@ -1,6 +1,6 @@
 # All JS Features
 
-report generated Thu Feb 11 2016 16:32:35 GMT-0800 (PST)
+report generated Thu Feb 11 2016 16:33:13 GMT-0800 (PST)
 
 feature                                                        | max   | avg   | growth   | trend
 -------------------------------------------------------------- | ----- | ----- | -------- | -----

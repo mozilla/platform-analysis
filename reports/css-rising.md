@@ -1,6 +1,6 @@
 # Rising CSS Properties
 
-report generated Thu Feb 11 2016 16:32:33 GMT-0800 (PST)
+report generated Thu Feb 11 2016 16:33:11 GMT-0800 (PST)
 
 feature                                 | max   | avg   | growth  | trend
 --------------------------------------- | ----- | ----- | ------- | -----
