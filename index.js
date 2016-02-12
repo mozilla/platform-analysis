@@ -22,6 +22,7 @@ function analyze(series) {
   return {
     feature: series.name,
     raw: new Link('📈', series.rawURL),
+    spark: sparky(points, 16),
     max: pct(max),
     avg: pct(a),
     trend: truncate(slope * 10000, 2)
@@ -55,6 +56,49 @@ function fetchSeq(list) {
 
     next();
   });
+}
+
+function sparky(series, width) {
+  var len = series.length;
+  width = width || len;
+  var chunk = Math.ceil(len / (width + 1));
+  var scaled = [];
+  for (var i = 0; i < width; i++) {
+    var c = series.slice(i*chunk, Math.min(i*chunk + chunk, len-1));
+    var ca = avg(c);
+    scaled.push(ca);
+  }
+
+  var min = stats.min(scaled);
+  var max = stats.max(scaled);
+  var range = max - min;
+  var binned = scaled.map(v => {
+    return Math.round((v-min) / range * 3);
+  });
+
+  var out = '';
+
+  for (i=0; i < binned.length; i+=2) {
+    var n = 0x2800;
+    var a = (3-binned[i]);
+    var b = (3-binned[i+1]);
+    if (a === 3) {
+      if (b === 3) {
+        n = 0x28C0;
+      } else {
+        n = 0x2840 + (4 << (b+1));
+      }
+    } else {
+      if (b === 3) {
+        n = 0x2880 + (1<<a);
+      } else {
+        n = 0x2800 + (1<<a) + (1<<(b+3));
+      }
+    }
+    out += String.fromCodePoint(n);
+  }
+
+  return out;
 }
 
 function Link(text, url) {
