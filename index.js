@@ -24,7 +24,6 @@ function analyze(series) {
     raw: new Link('📈', series.rawURL),
     max: pct(max),
     avg: pct(a),
-    growth: pct(end / start - 1),
     trend: truncate(slope * 10000, 2)
   };
 }

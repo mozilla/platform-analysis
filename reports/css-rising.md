@@ -1,160 +1,160 @@
 # Rising CSS Properties
 
-report generated Thu Feb 11 2016 20:40:11 GMT-0800 (PST)
+report generated Thu Feb 11 2016 20:42:12 GMT-0800 (PST)
 
-feature                                 | raw | max   | avg   | growth  | trend
---------------------------------------- | --- | ----- | ----- | ------- | -----
-alias-webkit-box-sizing                 | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/485) | 47.02 | 39.5  | 60      | 18.6 
-alias-webkit-border-top-left-radius     | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/483) | 22.69 | 19.54 | 55.42   | 9.28 
-alias-webkit-border-top-right-radius    | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/484) | 25    | 20.26 | 42.6    | 9.19 
-alias-webkit-border-bottom-left-radius  | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/481) | 20.19 | 17.46 | 33.26   | 8.04 
-alias-webkit-border-bottom-right-radius | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/482) | 22.52 | 18.14 | 21.72   | 7.93 
-alias-webkit-align-items                | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/479) | 13.22 | 11.49 | 52.88   | 5.57 
-alias-webkit-justify-content            | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/493) | 12.43 | 11.05 | 64.35   | 5.55 
-alias-webkit-flex                       | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/486) | 12.22 | 10.11 | 96.31   | 4.93 
-transform                               | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/446) | 51    | 43.27 | -6.91   | 4.42 
-alias-webkit-order                      | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/495) | 9.01  | 7.41  | 100.55  | 3.56 
-align-items                             | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/231) | 45.88 | 31.24 | 209.29  | 2.79 
-justify-content                         | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/240) | 46.49 | 31    | 210.35  | 2.74 
-alias-webkit-flex-direction             | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/488) | 5.5   | 3.94  | 152.33  | 2.18 
-alias-webkit-flex-grow                  | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/490) | 5.52  | 4.23  | 170.21  | 2.12 
-webkit-tap-highlight-color              | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/415) | 32.65 | 26.8  | -8.17   | 2.08 
-animation                               | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/424) | 37.78 | 32.02 | 5.26    | 2.05 
-unicode-range                           | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/156) | 14.05 | 12.07 | -12.21  | 2.01 
-alias-webkit-opacity                    | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/494) | 5.84  | 4.53  | 19.39   | 1.96 
-transform-origin                        | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/447) | 25.68 | 21.46 | -13.5   | 1.63 
-webkit-background-size                  | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/181) | 25.93 | 21.56 | -12.78  | 1.63 
-alias-webkit-flex-flow                  | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/489) | 4.09  | 3.39  | 39.77   | 1.56 
-alias-webkit-flex-wrap                  | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/492) | 3.72  | 2.96  | 71.52   | 1.47 
-webkit-box-orient                       | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/209) | 19.32 | 15.25 | -9.91   | 1.47 
-src                                     | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/124) | 34.33 | 30.08 | -8.5    | 1.37 
-flex-grow                               | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/237) | 11.26 | 8.48  | -16.37  | 1.35 
-backface-visibility                     | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/451) | 11.47 | 9.79  | -2.46   | 1.31 
-webkit-backface-visibility              | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/177) | 20.81 | 17.16 | -3.5    | 1.21 
-webkit-animation                        | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/166) | 42.7  | 36.3  | -11.73  | 1.19 
-webkit-line-clamp                       | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/260) | 13.32 | 10.73 | -13.42  | 1.09 
-will-change                             | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/445) | 5.6   | 4.74  | 10.15   | 1.01 
-alias-webkit-flex-shrink                | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/491) | 2.31  | 1.76  | 169.03  | 0.97 
-transition-timing-function              | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/154) | 12.73 | 11.11 | -5.72   | 0.93 
-flex                                    | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/233) | 18.1  | 14.63 | -7.04   | 0.91 
-transition-property                     | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/153) | 13.81 | 12.37 | 8.28    | 0.87 
-webkit-animation-fill-mode              | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/170) | 14.95 | 10.33 | -29.1   | 0.85 
-transition                              | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/150) | 55.4  | 46.29 | -14.87  | 0.84 
-speak                                   | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/125) | 9.85  | 8.63  | -3.96   | 0.84 
-animation-duration                      | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/427) | 11.36 | 9.63  | -10.05  | 0.79 
-animation-name                          | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/430) | 11.22 | 9.61  | -8.85   | 0.78 
-pointer-events                          | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/118) | 49.11 | 36.79 | -4.58   | 0.78 
-page-break-inside                       | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/117) | 11.22 | 8.36  | 2.03    | 0.77 
-outline-offset                          | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/102) | 18.31 | 14.23 | -5.75   | 0.75 
-webkit-filter                           | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/413) | 19.88 | 16.68 | 12.61   | 0.73 
-alias-webkit-align-self                 | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/480) | 1.81  | 1.3   | 235.45  | 0.73 
-animation-fill-mode                     | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/428) | 9.31  | 7.78  | -13.61  | 0.72 
-page-break-after                        | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/115) | 11.07 | 8.16  | 1.25    | 0.72 
-widows                                  | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/160) | 8.6   | 7.61  | 0.64    | 0.68 
-webkit-box-align                        | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/203) | 7.18  | 5.63  | 22.77   | 0.67 
-flex-direction                          | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/235) | 10.56 | 8.68  | 13.19   | 0.67 
-webkit-transform-origin                 | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/327) | 28.93 | 23.88 | -12.47  | 0.66 
-webkit-animation-duration               | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/169) | 17.79 | 14.34 | -16.42  | 0.64 
-webkit-animation-name                   | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/172) | 17.6  | 14.24 | -16.51  | 0.64 
-order                                   | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/303) | 22.04 | 10.55 | -10.56  | 0.63 
-touch-action                            | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/421) | 7.53  | 5.4   | 47.32   | 0.63 
-webkit-animation-iteration-count        | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/171) | 10.04 | 8.55  | -7.05   | 0.6  
-webkit-animation-delay                  | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/167) | 8.47  | 7.54  | 14.37   | 0.6  
-webkit-mask-size                        | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/297) | 6.28  | 4.55  | -41.97  | 0.6  
-transform-style                         | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/448) | 5.45  | 4.42  | 18.02   | 0.6  
-webkit-box-ordinal-group                | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/208) | 5.13  | 3.56  | -17.22  | 0.59 
-background-origin                       | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/26) | 8.54  | 7.31  | 13.31   | 0.57 
-webkit-mask-image                       | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/289) | 7.95  | 6.27  | -15.53  | 0.55 
-webkit-animation-play-state             | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/173) | 6.64  | 5.14  | 30.9    | 0.53 
-webkit-transition-timing-function       | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/336) | 13.19 | 11.22 | -0.65   | 0.53 
-webkit-perspective                      | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/308) | 10.52 | 8.72  | 0.09    | 0.52 
-perspective                             | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/449) | 6.3   | 5.16  | 14.9    | 0.51 
-fill                                    | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/369) | 22.54 | 14.04 | 52.86   | 0.5  
-transition-duration                     | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/152) | 12.8  | 11.48 | 5.95    | 0.5  
-animation-delay                         | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/425) | 6.51  | 5.66  | 42.01   | 0.48 
-alias-webkit-align-content              | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/478) | 1.15  | 0.88  | 138.37  | 0.47 
-flex-wrap                               | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/239) | 4.09  | 3.34  | 2.61    | 0.46 
-webkit-padding-end                      | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/306) | 4.35  | 3.28  | -14.22  | 0.42 
-webkit-margin-end                       | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/272) | 3.87  | 3.23  | -18.79  | 0.4  
-text-rendering                          | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/11) | 18.37 | 16.25 | -2.41   | 0.39 
-alias-webkit-flex-basis                 | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/487) | 1     | 0.75  | 87.24   | 0.38 
-animation-iteration-count               | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/429) | 4.96  | 4.32  | 8.21    | 0.38 
-flex-shrink                             | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/238) | 2.96  | 2.43  | 8.44    | 0.33 
-webkit-box-pack                         | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/210) | 9.02  | 7.39  | 9       | 0.33 
-counter-increment                       | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/75) | 6.99  | 5.86  | -4.32   | 0.29 
-webkit-transform                        | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/326) | 57.24 | 47.45 | -14.72  | 0.28 
-counter-reset                           | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/76) | 6.79  | 5.67  | -5.59   | 0.25 
-flex-basis                              | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/234) | 2.97  | 1.71  | 21.52   | 0.24 
-font-feature-settings                   | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/514) | 0.75  | 0.08  | 1648.96 | 0.24 
-align-self                              | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/232) | 2.49  | 1.77  | 80.07   | 0.23 
-background-size                         | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/33) | 61.4  | 50.53 | -16.72  | 0.22 
-stroke                                  | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/378) | 9.75  | 4.16  | 141.78  | 0.21 
-border-image                            | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/43) | 4.83  | 3.98  | 4.92    | 0.2  
-stroke-opacity                          | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/384) | 2.74  | 1.21  | 263.45  | 0.19 
-object-fit                              | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/433) | 2.53  | 1.49  | 27.45   | 0.19 
-align-content                           | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/230) | 1.47  | 1.22  | 10.01   | 0.17 
-webkit-print-color-adjust               | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/312) | 2.38  | 0.63  | -76.49  | 0.17 
-webkit-box-direction                    | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/204) | 1.72  | 1.25  | 38.76   | 0.17 
-webkit-transform-style                  | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/331) | 6.37  | 5.35  | 3.55    | 0.16 
-webkit-clip-path                        | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/73) | 1.63  | 1.18  | -4.57   | 0.14 
-webkit-mask                             | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/280) | 1.64  | 1.28  | 12.33   | 0.14 
-webkit-font-feature-settings            | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/12) | 1.3   | 1.07  | 23.39   | 0.14 
-animation-timing-function               | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/432) | 7.04  | 6.13  | 16.79   | 0.13 
-webkit-column-count                     | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/218) | 3.61  | 2.79  | -15.46  | 0.12 
-stroke-width                            | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/385) | 4.8   | 3.34  | 0.86    | 0.11 
-perspective-origin                      | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/450) | 15.82 | 4.83  | -8.32   | 0.11 
-orphans                                 | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/99) | 16.16 | 12.19 | -13.57  | 0.1  
-word-break                              | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/162) | 28.2  | 24.59 | -4.49   | 0.09 
-webkit-line-break                       | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/259) | 1.3   | 0.65  | 9.71    | 0.09 
-webkit-margin-before                    | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/271) | 1.33  | 1.14  | -4.11   | 0.09 
-webkit-text-fill-color                  | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/321) | 1.38  | 1.19  | -0.17   | 0.09 
-webkit-app-region                       | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/412) | 1.94  | 0.82  | -2.12   | 0.09 
-border-image-slice                      | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/46) | 0.81  | 0.61  | -21.94  | 0.09 
-animation-play-state                    | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/431) | 1.01  | 0.84  | 9.16    | 0.08 
-border-image-repeat                     | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/45) | 0.78  | 0.55  | -16.55  | 0.08 
-border-image-width                      | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/48) | 0.78  | 0.56  | -12.56  | 0.08 
-font-stretch                            | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/80) | 3     | 2.56  | -2.4    | 0.08 
-webkit-column-break-inside              | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/217) | 0.99  | 0.83  | -7.03   | 0.07 
-border-image-outset                     | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/44) | 0.74  | 0.51  | -15.43  | 0.07 
-webkit-user-modify                      | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/338) | 1.03  | 0.72  | -27.07  | 0.07 
-font-kerning                            | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/13) | 0.62  | 0.46  | 3.63    | 0.06 
-webkit-margin-after                     | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/270) | 1.12  | 0.97  | 3.25    | 0.06 
-webkit-column-gap                       | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/219) | 2.92  | 2.18  | -17.99  | 0.05 
-webkit-text-stroke                      | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/323) | 0.84  | 0.67  | -14.25  | 0.05 
-webkit-mask-repeat                      | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/294) | 2.89  | 2.17  | -7.01   | 0.05 
-stroke-dasharray                        | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/379) | 0.69  | 0.45  | 67.03   | 0.04 
-webkit-box-lines                        | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/207) | 0.53  | 0.38  | 70.95   | 0.04 
-tab-size                                | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/127) | 0.36  | 0.32  | -1.41   | 0.04 
-shape-rendering                         | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/377) | 0.57  | 0.38  | 69.33   | 0.04 
-fill-rule                               | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/371) | 0.63  | 0.37  | 193.14  | 0.03 
-webkit-perspective-origin-x             | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/310) | 0.37  | 0.29  | 8.82    | 0.03 
-border-image-source                     | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/47) | 0.52  | 0.34  | 23.6    | 0.03 
-webkit-margin-top-collapse              | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/268) | 2.07  | 1.7   | -17.61  | 0.03 
-overflow-x                              | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/107) | 51.81 | 41.74 | -8.62   | 0.02 
-stroke-linecap                          | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/381) | 0.44  | 0.31  | 54.29   | 0.02 
-webkit-perspective-origin-y             | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/311) | 0.37  | 0.3   | 5.23    | 0.02 
-webkit-text-emphasis-color              | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/318) | 0.26  | 0.15  | -12.65  | 0.02 
-text-anchor                             | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/392) | 0.4   | 0.24  | 32.77   | 0.02 
-webkit-box-decoration-break             | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/414) | 0.2   | 0.15  | 43.89   | 0.02 
-stroke-dashoffset                       | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/380) | 0.4   | 0.25  | 150.19  | 0.02 
-webkit-text-security                    | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/322) | 0.26  | 0.17  | 26.37   | 0.02 
-webkit-padding-before                   | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/305) | 0.31  | 0.21  | -20.86  | 0.02 
-clip-rule                               | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/356) | 0.38  | 0.2   | 200.17  | 0.02 
-webkit-column-rule                      | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/221) | 0.23  | 0.19  | -0.23   | 0.01 
-mask                                    | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/357) | 0.25  | 0.14  | 8.79    | 0.01 
-webkit-padding-after                    | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/304) | 0.27  | 0.16  | -13.64  | 0.01 
-webkit-writing-mode                     | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/18) | 0.13  | 0.1   | 29.47   | 0.01 
-clip-path                               | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/355) | 0.36  | 0.12  | 93.78   | 0.01 
-webkit-border-start-color               | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/199) | 0.15  | 0.1   | -20.5   | 0.01 
-webkit-border-start-width               | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/201) | 0.15  | 0.1   | -19.87  | 0.01 
-stop-color                              | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/363) | 1.88  | 0.78  | 46.29   | 0.01 
-webkit-border-end                       | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/190) | 0.14  | 0.1   | -24.51  | 0.01 
-webkit-highlight                        | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/251) | 0.12  | 0.08  | -14.74  | 0.01 
-stroke-miterlimit                       | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/383) | 0.57  | 0.28  | 194.32  | 0.01 
-webkit-border-start                     | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/198) | 0.11  | 0.08  | -28.31  | 0.01 
-webkit-column-rule-color                | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/222) | 0.32  | 0.22  | -2.52   | 0.01 
-background-blend-mode                   | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/419) | 0.1   | 0.07  | 12.1    | 0.01 
-stroke-linejoin                         | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/382) | 0.35  | 0.23  | 59.82   | 0.01 
-stop-opacity                            | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/364) | 0.32  | 0.23  | 8.58    | 0.01 
-webkit-transform-origin-x               | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/328) | 0.12  | 0.09  | 33.51   | 0.01 
+feature                                 | raw | max   | avg   | trend
+--------------------------------------- | --- | ----- | ----- | -----
+alias-webkit-box-sizing                 | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/485) | 47.02 | 39.5  | 18.6 
+alias-webkit-border-top-left-radius     | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/483) | 22.69 | 19.54 | 9.28 
+alias-webkit-border-top-right-radius    | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/484) | 25    | 20.26 | 9.19 
+alias-webkit-border-bottom-left-radius  | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/481) | 20.19 | 17.46 | 8.04 
+alias-webkit-border-bottom-right-radius | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/482) | 22.52 | 18.14 | 7.93 
+alias-webkit-align-items                | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/479) | 13.22 | 11.49 | 5.57 
+alias-webkit-justify-content            | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/493) | 12.43 | 11.05 | 5.55 
+alias-webkit-flex                       | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/486) | 12.22 | 10.11 | 4.93 
+transform                               | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/446) | 51    | 43.27 | 4.42 
+alias-webkit-order                      | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/495) | 9.01  | 7.41  | 3.56 
+align-items                             | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/231) | 45.88 | 31.24 | 2.79 
+justify-content                         | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/240) | 46.49 | 31    | 2.74 
+alias-webkit-flex-direction             | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/488) | 5.5   | 3.94  | 2.18 
+alias-webkit-flex-grow                  | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/490) | 5.52  | 4.23  | 2.12 
+webkit-tap-highlight-color              | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/415) | 32.65 | 26.8  | 2.08 
+animation                               | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/424) | 37.78 | 32.02 | 2.05 
+unicode-range                           | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/156) | 14.05 | 12.07 | 2.01 
+alias-webkit-opacity                    | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/494) | 5.84  | 4.53  | 1.96 
+transform-origin                        | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/447) | 25.68 | 21.46 | 1.63 
+webkit-background-size                  | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/181) | 25.93 | 21.56 | 1.63 
+alias-webkit-flex-flow                  | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/489) | 4.09  | 3.39  | 1.56 
+alias-webkit-flex-wrap                  | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/492) | 3.72  | 2.96  | 1.47 
+webkit-box-orient                       | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/209) | 19.32 | 15.25 | 1.47 
+src                                     | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/124) | 34.33 | 30.08 | 1.37 
+flex-grow                               | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/237) | 11.26 | 8.48  | 1.35 
+backface-visibility                     | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/451) | 11.47 | 9.79  | 1.31 
+webkit-backface-visibility              | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/177) | 20.81 | 17.16 | 1.21 
+webkit-animation                        | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/166) | 42.7  | 36.3  | 1.19 
+webkit-line-clamp                       | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/260) | 13.32 | 10.73 | 1.09 
+will-change                             | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/445) | 5.6   | 4.74  | 1.01 
+alias-webkit-flex-shrink                | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/491) | 2.31  | 1.76  | 0.97 
+transition-timing-function              | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/154) | 12.73 | 11.11 | 0.93 
+flex                                    | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/233) | 18.1  | 14.63 | 0.91 
+transition-property                     | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/153) | 13.81 | 12.37 | 0.87 
+webkit-animation-fill-mode              | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/170) | 14.95 | 10.33 | 0.85 
+transition                              | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/150) | 55.4  | 46.29 | 0.84 
+speak                                   | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/125) | 9.85  | 8.63  | 0.84 
+animation-duration                      | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/427) | 11.36 | 9.63  | 0.79 
+animation-name                          | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/430) | 11.22 | 9.61  | 0.78 
+pointer-events                          | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/118) | 49.11 | 36.79 | 0.78 
+page-break-inside                       | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/117) | 11.22 | 8.36  | 0.77 
+outline-offset                          | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/102) | 18.31 | 14.23 | 0.75 
+webkit-filter                           | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/413) | 19.88 | 16.68 | 0.73 
+alias-webkit-align-self                 | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/480) | 1.81  | 1.3   | 0.73 
+animation-fill-mode                     | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/428) | 9.31  | 7.78  | 0.72 
+page-break-after                        | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/115) | 11.07 | 8.16  | 0.72 
+widows                                  | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/160) | 8.6   | 7.61  | 0.68 
+webkit-box-align                        | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/203) | 7.18  | 5.63  | 0.67 
+flex-direction                          | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/235) | 10.56 | 8.68  | 0.67 
+webkit-transform-origin                 | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/327) | 28.93 | 23.88 | 0.66 
+webkit-animation-duration               | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/169) | 17.79 | 14.34 | 0.64 
+webkit-animation-name                   | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/172) | 17.6  | 14.24 | 0.64 
+order                                   | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/303) | 22.04 | 10.55 | 0.63 
+touch-action                            | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/421) | 7.53  | 5.4   | 0.63 
+webkit-animation-iteration-count        | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/171) | 10.04 | 8.55  | 0.6  
+webkit-animation-delay                  | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/167) | 8.47  | 7.54  | 0.6  
+webkit-mask-size                        | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/297) | 6.28  | 4.55  | 0.6  
+transform-style                         | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/448) | 5.45  | 4.42  | 0.6  
+webkit-box-ordinal-group                | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/208) | 5.13  | 3.56  | 0.59 
+background-origin                       | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/26) | 8.54  | 7.31  | 0.57 
+webkit-mask-image                       | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/289) | 7.95  | 6.27  | 0.55 
+webkit-animation-play-state             | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/173) | 6.64  | 5.14  | 0.53 
+webkit-transition-timing-function       | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/336) | 13.19 | 11.22 | 0.53 
+webkit-perspective                      | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/308) | 10.52 | 8.72  | 0.52 
+perspective                             | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/449) | 6.3   | 5.16  | 0.51 
+fill                                    | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/369) | 22.54 | 14.04 | 0.5  
+transition-duration                     | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/152) | 12.8  | 11.48 | 0.5  
+animation-delay                         | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/425) | 6.51  | 5.66  | 0.48 
+alias-webkit-align-content              | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/478) | 1.15  | 0.88  | 0.47 
+flex-wrap                               | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/239) | 4.09  | 3.34  | 0.46 
+webkit-padding-end                      | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/306) | 4.35  | 3.28  | 0.42 
+webkit-margin-end                       | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/272) | 3.87  | 3.23  | 0.4  
+text-rendering                          | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/11) | 18.37 | 16.25 | 0.39 
+alias-webkit-flex-basis                 | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/487) | 1     | 0.75  | 0.38 
+animation-iteration-count               | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/429) | 4.96  | 4.32  | 0.38 
+flex-shrink                             | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/238) | 2.96  | 2.43  | 0.33 
+webkit-box-pack                         | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/210) | 9.02  | 7.39  | 0.33 
+counter-increment                       | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/75) | 6.99  | 5.86  | 0.29 
+webkit-transform                        | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/326) | 57.24 | 47.45 | 0.28 
+counter-reset                           | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/76) | 6.79  | 5.67  | 0.25 
+flex-basis                              | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/234) | 2.97  | 1.71  | 0.24 
+font-feature-settings                   | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/514) | 0.75  | 0.08  | 0.24 
+align-self                              | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/232) | 2.49  | 1.77  | 0.23 
+background-size                         | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/33) | 61.4  | 50.53 | 0.22 
+stroke                                  | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/378) | 9.75  | 4.16  | 0.21 
+border-image                            | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/43) | 4.83  | 3.98  | 0.2  
+stroke-opacity                          | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/384) | 2.74  | 1.21  | 0.19 
+object-fit                              | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/433) | 2.53  | 1.49  | 0.19 
+align-content                           | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/230) | 1.47  | 1.22  | 0.17 
+webkit-print-color-adjust               | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/312) | 2.38  | 0.63  | 0.17 
+webkit-box-direction                    | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/204) | 1.72  | 1.25  | 0.17 
+webkit-transform-style                  | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/331) | 6.37  | 5.35  | 0.16 
+webkit-clip-path                        | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/73) | 1.63  | 1.18  | 0.14 
+webkit-mask                             | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/280) | 1.64  | 1.28  | 0.14 
+webkit-font-feature-settings            | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/12) | 1.3   | 1.07  | 0.14 
+animation-timing-function               | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/432) | 7.04  | 6.13  | 0.13 
+webkit-column-count                     | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/218) | 3.61  | 2.79  | 0.12 
+stroke-width                            | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/385) | 4.8   | 3.34  | 0.11 
+perspective-origin                      | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/450) | 15.82 | 4.83  | 0.11 
+orphans                                 | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/99) | 16.16 | 12.19 | 0.1  
+word-break                              | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/162) | 28.2  | 24.59 | 0.09 
+webkit-line-break                       | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/259) | 1.3   | 0.65  | 0.09 
+webkit-margin-before                    | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/271) | 1.33  | 1.14  | 0.09 
+webkit-text-fill-color                  | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/321) | 1.38  | 1.19  | 0.09 
+webkit-app-region                       | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/412) | 1.94  | 0.82  | 0.09 
+border-image-slice                      | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/46) | 0.81  | 0.61  | 0.09 
+animation-play-state                    | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/431) | 1.01  | 0.84  | 0.08 
+border-image-repeat                     | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/45) | 0.78  | 0.55  | 0.08 
+border-image-width                      | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/48) | 0.78  | 0.56  | 0.08 
+font-stretch                            | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/80) | 3     | 2.56  | 0.08 
+webkit-column-break-inside              | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/217) | 0.99  | 0.83  | 0.07 
+border-image-outset                     | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/44) | 0.74  | 0.51  | 0.07 
+webkit-user-modify                      | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/338) | 1.03  | 0.72  | 0.07 
+font-kerning                            | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/13) | 0.62  | 0.46  | 0.06 
+webkit-margin-after                     | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/270) | 1.12  | 0.97  | 0.06 
+webkit-column-gap                       | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/219) | 2.92  | 2.18  | 0.05 
+webkit-text-stroke                      | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/323) | 0.84  | 0.67  | 0.05 
+webkit-mask-repeat                      | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/294) | 2.89  | 2.17  | 0.05 
+stroke-dasharray                        | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/379) | 0.69  | 0.45  | 0.04 
+webkit-box-lines                        | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/207) | 0.53  | 0.38  | 0.04 
+tab-size                                | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/127) | 0.36  | 0.32  | 0.04 
+shape-rendering                         | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/377) | 0.57  | 0.38  | 0.04 
+fill-rule                               | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/371) | 0.63  | 0.37  | 0.03 
+webkit-perspective-origin-x             | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/310) | 0.37  | 0.29  | 0.03 
+border-image-source                     | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/47) | 0.52  | 0.34  | 0.03 
+webkit-margin-top-collapse              | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/268) | 2.07  | 1.7   | 0.03 
+overflow-x                              | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/107) | 51.81 | 41.74 | 0.02 
+stroke-linecap                          | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/381) | 0.44  | 0.31  | 0.02 
+webkit-perspective-origin-y             | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/311) | 0.37  | 0.3   | 0.02 
+webkit-text-emphasis-color              | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/318) | 0.26  | 0.15  | 0.02 
+text-anchor                             | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/392) | 0.4   | 0.24  | 0.02 
+webkit-box-decoration-break             | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/414) | 0.2   | 0.15  | 0.02 
+stroke-dashoffset                       | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/380) | 0.4   | 0.25  | 0.02 
+webkit-text-security                    | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/322) | 0.26  | 0.17  | 0.02 
+webkit-padding-before                   | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/305) | 0.31  | 0.21  | 0.02 
+clip-rule                               | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/356) | 0.38  | 0.2   | 0.02 
+webkit-column-rule                      | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/221) | 0.23  | 0.19  | 0.01 
+mask                                    | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/357) | 0.25  | 0.14  | 0.01 
+webkit-padding-after                    | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/304) | 0.27  | 0.16  | 0.01 
+webkit-writing-mode                     | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/18) | 0.13  | 0.1   | 0.01 
+clip-path                               | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/355) | 0.36  | 0.12  | 0.01 
+webkit-border-start-color               | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/199) | 0.15  | 0.1   | 0.01 
+webkit-border-start-width               | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/201) | 0.15  | 0.1   | 0.01 
+stop-color                              | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/363) | 1.88  | 0.78  | 0.01 
+webkit-border-end                       | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/190) | 0.14  | 0.1   | 0.01 
+webkit-highlight                        | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/251) | 0.12  | 0.08  | 0.01 
+stroke-miterlimit                       | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/383) | 0.57  | 0.28  | 0.01 
+webkit-border-start                     | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/198) | 0.11  | 0.08  | 0.01 
+webkit-column-rule-color                | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/222) | 0.32  | 0.22  | 0.01 
+background-blend-mode                   | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/419) | 0.1   | 0.07  | 0.01 
+stroke-linejoin                         | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/382) | 0.35  | 0.23  | 0.01 
+stop-opacity                            | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/364) | 0.32  | 0.23  | 0.01 
+webkit-transform-origin-x               | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/328) | 0.12  | 0.09  | 0.01 
 
