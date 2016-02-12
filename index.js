@@ -20,7 +20,8 @@ function analyze(series) {
   var max = points.reduce((_, v) => Math.max(_, v), 0);
 
   return {
-    feature: new Link(series.name, series.url),
+    feature: series.name,
+    raw: new Link('📈', series.rawURL),
     max: pct(max),
     avg: pct(a),
     growth: pct(end / start - 1),
@@ -114,6 +115,8 @@ cache.get('https://www.chromestatus.com/data/csspopularity')
   return fetchSeq(data.map(function (feature) {
     return {
       name: feature.property_name,
+      id: feature.bucket_id,
+      rawURL: 'https://www.chromestatus.com/metrics/css/timeline/popularity/' + feature.bucket_id,
       full: feature,
       url: 'https://www.chromestatus.com/data/timeline/csspopularity?bucket_id=' + feature.bucket_id
     };
@@ -135,14 +138,14 @@ cache.get('https://www.chromestatus.com/data/csspopularity')
     all.table(compiled.sort(sort('feature', true)));
     all.write();
 
-    var prefixed = compiled.filter(row => /^(alias-)?webkit-/.test(row.feature.text));
+    var prefixed = compiled.filter(row => /^(alias-)?webkit-/.test(row.feature));
     prefixed.forEach(row => {
-      row.unprefixed = row.feature.text.replace(/^(alias-)?webkit-/, '');
+      row.unprefixed = row.feature.replace(/^(alias-)?webkit-/, '');
     });
     var prefixIndex = prefixed.map(row => row.unprefixed);
-    var unprefixed = compiled.filter(row => prefixIndex.indexOf(row.feature.text) > -1);
+    var unprefixed = compiled.filter(row => prefixIndex.indexOf(row.feature) > -1);
     unprefixed = unprefixed.map(row => {
-      var prefixedProperty = prefixed[prefixIndex.indexOf(row.feature.text)];
+      var prefixedProperty = prefixed[prefixIndex.indexOf(row.feature)];
       return {
         feature: row.feature,
         bare: row.avg,
@@ -178,6 +181,7 @@ cache.get('https://www.chromestatus.com/data/csspopularity')
   fetchSeq(data.map(function (feature) {
     return {
       name: feature.property_name,
+      rawURL: 'https://www.chromestatus.com/metrics/css/timeline/popularity/' + feature.bucket_id,
       full: feature,
       url: 'https://www.chromestatus.com/data/timeline/featurepopularity?bucket_id=' + feature.bucket_id
     };
