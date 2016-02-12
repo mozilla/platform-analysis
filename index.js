@@ -39,7 +39,7 @@ function fetchSeq(list) {
     var results = [];
     var current = 0;
     function next() {
-      bar.tick({feature: list[current].name});
+      bar.tick({feature: list[current].name.substr(0, 40)});
       cache.get(list[current].url)
         .then(function (obj) {
           list[current].data = obj;
@@ -88,7 +88,7 @@ function err(pre) {
   };
 }
 
-process.stdout.write('fetching feature list... ');
+process.stdout.write('fetching CSS property list... ');
 cache.get('https://www.chromestatus.com/data/csspopularity')
 .then(function (data) {
   process.stdout.write('done.\n');
@@ -96,12 +96,11 @@ cache.get('https://www.chromestatus.com/data/csspopularity')
 
   data = data.filter(function (feature) {
     return feature.property_name && feature.day_percentage < 0.5 && feature.property_name !== 'ERROR';
-  })
-  .sort((a, b) => b.day_percentage - a.day_percentage);
+  });
 
   console.log('fetching individual timeseries');
 
-  fetchSeq(data.map(function (feature) {
+  return fetchSeq(data.map(function (feature) {
     return {
       name: feature.property_name,
       full: feature,
@@ -113,13 +112,13 @@ cache.get('https://www.chromestatus.com/data/csspopularity')
     console.log('analzying timeseries data');
     var compiled = timeseries.map(analyze);
 
-    var rising = new Report('rising');
+    var rising = new Report('css-rising');
     rising.header('Rising CSS Properties');
     rising.timestamp();
-    rising.table(compiled.filter(row => row.trend > 0).sort(sort('max')));
+    rising.table(compiled.filter(row => row.trend > 0).sort(sort('trend')));
     rising.write();
 
-    var all = new Report('all');
+    var all = new Report('css-all');
     all.header('All CSS Properties');
     all.timestamp();
     all.table(compiled.sort(sort('feature', true)));
@@ -146,6 +145,48 @@ cache.get('https://www.chromestatus.com/data/csspopularity')
     prefixReport.timestamp();
     prefixReport.table(unprefixed.sort(sort('diff')));
     prefixReport.write();
+
+    console.log('Done.');
+  }).catch(err('processing error'));
+})
+.catch(err('fetch error'))
+.then(function () {
+  process.stdout.write('fetching JS feature list... ');
+  return cache.get('https://www.chromestatus.com/data/featurepopularity');
+})
+.then(function (data) {
+  process.stdout.write('done.\n');
+  console.log('ranking features');
+
+  data = data.filter(function (feature) {
+    return feature.property_name && feature.day_percentage < 0.5 && feature.property_name !== 'ERROR';
+  });
+
+  console.log('fetching individual timeseries');
+
+  fetchSeq(data.map(function (feature) {
+    return {
+      name: feature.property_name,
+      full: feature,
+      url: 'https://www.chromestatus.com/data/timeline/featurepopularity?bucket_id=' + feature.bucket_id
+    };
+  })).then(function(timeseries) {
+    console.log('success.');
+
+    console.log('analzying timeseries data');
+    var compiled = timeseries.map(analyze);
+
+    var all = new Report('js-all');
+    all.header('All CSS Properties');
+    all.timestamp();
+    all.table(compiled.sort(sort('feature', true)));
+    all.write();
+
+    var trending = new Report('js-trending');
+    trending.header('All CSS Properties');
+    trending.timestamp();
+    trending.table(compiled.sort(sort('feature', true)));
+    trending.write();
 
     console.log('Done.');
   }).catch(err('processing error'));

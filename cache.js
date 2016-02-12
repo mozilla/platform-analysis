@@ -14,7 +14,7 @@ function error() {
   console.error.apply(console,['[cache]'].concat(Array.from(arguments)));
 }
 
-const EXPIRY = 1000 * 60 * 60 * 8;
+const EXPIRY = 1000 * 60 * 60 * 24;
 
 var index;
 
