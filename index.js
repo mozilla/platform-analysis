@@ -177,13 +177,13 @@ cache.get('https://www.chromestatus.com/data/csspopularity')
     var compiled = timeseries.map(analyze);
 
     var all = new Report('js-all');
-    all.header('All CSS Properties');
+    all.header('All JS Features');
     all.timestamp();
     all.table(compiled.sort(sort('feature', true)));
     all.write();
 
     var trending = new Report('js-trending');
-    trending.header('All CSS Properties');
+    trending.header('Trending JS Features');
     trending.timestamp();
     trending.table(compiled.sort(sort('trend', true)));
     trending.write();
