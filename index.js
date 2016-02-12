@@ -20,7 +20,7 @@ function analyze(series) {
   var max = points.reduce((_, v) => Math.max(_, v), 0);
 
   return {
-    feature: series.name,
+    feature: new Link(series.name, series.url),
     max: pct(max),
     avg: pct(a),
     growth: pct(end / start - 1),
@@ -56,6 +56,17 @@ function fetchSeq(list) {
     next();
   });
 }
+
+function Link(text, url) {
+  this.text = text;
+  this.href = url;
+}
+Link.prototype.toMarkdown = function() {
+  return '[' + this.text + '](' + this.href + ')';
+};
+Link.prototype.toString = function() {
+  return this.text;
+};
 
 function avg(arr) {
   return arr.reduce((last, current) => last + current, 0) / arr.length;
@@ -124,14 +135,14 @@ cache.get('https://www.chromestatus.com/data/csspopularity')
     all.table(compiled.sort(sort('feature', true)));
     all.write();
 
-    var prefixed = compiled.filter(row => /^(alias-)?webkit-/.test(row.feature));
+    var prefixed = compiled.filter(row => /^(alias-)?webkit-/.test(row.feature.text));
     prefixed.forEach(row => {
-      row.unprefixed = row.feature.replace(/^(alias-)?webkit-/, '');
+      row.unprefixed = row.feature.text.replace(/^(alias-)?webkit-/, '');
     });
     var prefixIndex = prefixed.map(row => row.unprefixed);
-    var unprefixed = compiled.filter(row => prefixIndex.indexOf(row.feature) > -1);
+    var unprefixed = compiled.filter(row => prefixIndex.indexOf(row.feature.text) > -1);
     unprefixed = unprefixed.map(row => {
-      var prefixedProperty = prefixed[prefixIndex.indexOf(row.feature)];
+      var prefixedProperty = prefixed[prefixIndex.indexOf(row.feature.text)];
       return {
         feature: row.feature,
         bare: row.avg,

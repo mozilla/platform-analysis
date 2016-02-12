@@ -34,12 +34,17 @@ Document.prototype.table = function (rows) {
     return rows.reduce((c, r) => Math.max(c, r[h].toString().length), h.length);
   });
 
+  function getString(v) {
+    if (v.toMarkdown) return v.toMarkdown();
+    return v.toString();
+  }
+
   this.output += headers.map((h, i) => pad(h, widths[i])).join(' | ');
   this.output += '\n';
   this.output += headers.map((h, i) => Array(widths[i]+1).join('-')).join(' | ');
   this.output += '\n';
   rows.forEach((row) => {
-    this.output += headers.map((h, i) => pad(row[h].toString(), widths[i])).join(' | ');
+    this.output += headers.map((h, i) => pad(getString(row[h]), widths[i])).join(' | ');
     this.output += '\n';
   });
   this.output += '\n';
