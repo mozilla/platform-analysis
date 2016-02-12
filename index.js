@@ -61,10 +61,12 @@ function fetchSeq(list) {
 function sparky(series, width) {
   var len = series.length;
   width = width || len;
-  var chunk = Math.ceil(len / (width + 1));
+  var chunk = (len / width);
   var scaled = [];
   for (var i = 0; i < width; i++) {
-    var c = series.slice(i*chunk, Math.min(i*chunk + chunk, len-1));
+    var start = Math.round(i*chunk);
+    var end = Math.min(Math.round(i * chunk + chunk), len);
+    var c = series.slice(start, end);
     var ca = avg(c);
     scaled.push(ca);
   }
