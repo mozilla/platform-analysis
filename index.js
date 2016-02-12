@@ -12,7 +12,7 @@ function analyze(series) {
     return datum.day_percentage;
   }).slice(-180);
 
-  var scatter = pairs(series.data, 'day_percentage');
+  var scatter = points.map((row, i) => [i, row]);
   var a = avg(points);
   var slope = stats.linearRegression(scatter).m;
   var start = avg(points.slice(0,5));
@@ -78,10 +78,6 @@ function truncate(n, digits) {
 
 function pct(n) {
   return truncate(n * 100, 2);
-}
-
-function pairs(arr, field) {
-  return arr.map((row, i) => [i, row[field]]);
 }
 
 function sort(field, asc) {
