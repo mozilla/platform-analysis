@@ -180,7 +180,7 @@ cache.get('https://www.chromestatus.com/data/csspopularity')
   fetchSeq(data.map(function (feature) {
     return {
       name: feature.property_name,
-      rawURL: 'https://www.chromestatus.com/metrics/css/timeline/popularity/' + feature.bucket_id,
+      rawURL: 'https://www.chromestatus.com/metrics/features/timeline/popularity/' + feature.bucket_id,
       full: feature,
       url: 'https://www.chromestatus.com/data/timeline/featurepopularity?bucket_id=' + feature.bucket_id
     };
