@@ -1,6 +1,6 @@
 # All JS Features
 
-report generated Thu Feb 11 2016 22:47:32 GMT-0800 (PST)
+report generated Mon Feb 15 2016 13:02:59 GMT-0800 (PST)
 
 feature                                                        | raw | spark    | max   | avg   | trend
 -------------------------------------------------------------- | --- | -------- | ----- | ----- | -----
