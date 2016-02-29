@@ -1,12 +1,13 @@
 # All JS Features
 
-report generated Mon Feb 15 2016 13:02:59 GMT-0800 (PST)
+report generated Thu Feb 25 2016 16:42:55 GMT-0800 (PST)
 
 feature                                                        | raw | spark    | max   | avg   | trend
 -------------------------------------------------------------- | --- | -------- | ----- | ----- | -----
 AddEventListenerNoArguments                                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/656) | ⣀⣀⣀⣀⡈⠔⣀⠤ | 0     | 0     | 0    
 AddEventListenerOneArgument                                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/657) | ⣀⣀⠉⠉⠑⢄⣀⣀ | 0.08  | 0.02  | -0.01
-AnimationPlayerFinishEvent                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/328) | ⠑⠉⠢⠤⢄⠤⢄⠢ | 0.27  | 0.16  | -0.02
+AddEventListenerThirdArgumentIsObject                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/967) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0     | 0     | 0    
+AnimationFinishEvent                                           | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/328) | ⠑⠉⠢⠤⢄⠤⢄⠢ | 0.27  | 0.16  | -0.02
 AspectRatioFlexItem                                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/479) | ⠤⣀⡈⠑⠒⠤⣀⣀ | 1.45  | 0.99  | -0.07
 AttrChildAccess                                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/600) | ⠉⠉⢄⣀⣀⣀⣀⣀ | 0     | 0     | 0    
 AttrChildChange                                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/601) | ⠉⠉⢄⣀⣀⣀⣀⣀ | 0     | 0     | 0    
@@ -66,6 +67,7 @@ BarPropPersonalbar                                             | [📈](https://
 BarPropScrollbars                                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/181) | ⠑⠊⠡⠤⠔⠊⢄⣀ | 0.37  | 0.33  | -0.01
 BarPropStatusbar                                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/182) | ⠑⠊⠡⠤⠔⠒⠤⣀ | 0.39  | 0.34  | -0.02
 BarPropToolbar                                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/183) | ⠑⠊⠡⠤⠔⠒⢄⣀ | 0.39  | 0.35  | -0.02
+BlockableMixedContentInSubframeBlocked                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/966) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0.03  | 0     | 0    
 BlockedSniffingImageToScript                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/674) | ⠉⠊⠒⠒⠒⠤⠤⣀ | 0.16  | 0.11  | -0.03
 BodyScrollsInAdditionToViewport                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1128) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0.12  | 0.09  | 2.49 
 BorderImageWithBorderStyleNone                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1026) | ⣀⣀⠔⠊⠒⠔⠒⠊ | 0     | 0     | 0    
@@ -126,8 +128,6 @@ CSSZoomNotEqualToOne                                           | [📈](https://
 CanPlayTypeKeySystem                                           | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/232) | ⠉⠉⠒⠒⠒⢄⣀⣀ | 0     | 0     | 0    
 CanvasRenderingContext2DCompositeOperationDarker               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/577) | ⠤⠊⢂⢄⢄⡐⠤⠡ | 0.01  | 0.01  | 0    
 CaseInsensitiveAttrSelectorMatch                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/244) | ⠉⠉⠑⠒⠒⠒⢄⠢ | 0.07  | 0.05  | 0    
-CastOverlayClicked                                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/966) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0.03  | 0     | 0    
-CastOverlayShown                                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/967) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0     | 0     | 0    
 ClientHintsContentDPR                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/906) | ⣀⣀⠉⠉⠒⠤⢄⣀ | 0     | 0     | 0    
 ClientHintsDPR                                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/835) | ⣀⣀⡠⠒⠊⠒⠑⢄ | 0.06  | 0.01  | 0.02 
 ClientHintsMetaAcceptCH                                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/904) | ⣀⣀⡐⠒⠑⠒⠑⣀ | 0.06  | 0.02  | 0.02 
@@ -539,14 +539,14 @@ PrefixedVideoExitFullscreen                                    | [📈](https://
 PrefixedVideoSupportsFullscreen                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/166) | ⠑⠒⠒⠒⠢⣀⣀⣀ | 0     | 0     | 0    
 PrefixedWindowURL                                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/283) | ⠉⠒⠢⠒⠤⠤⣀⠤ | 0.15  | 0.11  | -0.03
 PresentationAvailabilityChangeEventListener                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/927) | ⣀⣀⣀⣀⣀⡐⠉⠉ | 0.08  | 0.02  | 0.05 
+PresentationConnectionMessageEventListener                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/936) | ⣀⣀⣀⣀⣀⣀⣀⠌ | 0     | 0     | 0    
+PresentationConnectionSend                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/934) | ⣀⣀⣀⣀⣀⣀⣀⠌ | 0     | 0     | 0    
 PresentationDefaultRequest                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/926) | ⣀⣀⣀⣀⣀⠌⠉⠉ | 0.15  | 0.04  | 0.11 
+PresentationRequestConnectionAvailableEventListener            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/932) | ⣀⣀⣀⣀⣀⡐⠉⠉ | 0.08  | 0.02  | 0.05 
 PresentationRequestConstructor                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/928) | ⣀⣀⣀⣀⣀⡐⠉⠉ | 0.08  | 0.02  | 0.05 
 PresentationRequestGetAvailability                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/931) | ⣀⣀⣀⣀⣀⡐⠉⠉ | 0.08  | 0.02  | 0.05 
 PresentationRequestReconnect                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/930) | ⣀⣀⣀⣀⣀⡐⠉⠉ | 0.08  | 0.02  | 0.05 
-PresentationRequestSessionConnectEventListener                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/932) | ⣀⣀⣀⣀⣀⡐⠉⠉ | 0.08  | 0.02  | 0.05 
 PresentationRequestStart                                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/929) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
-PresentationSessionMessageEventListener                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/936) | ⣀⣀⣀⣀⣀⣀⣀⠌ | 0     | 0     | 0    
-PresentationSessionSend                                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/934) | ⣀⣀⣀⣀⣀⣀⣀⠌ | 0     | 0     | 0    
 ProgressElement                                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/484) | ⠒⠊⠡⠤⠤⣀⡠⠤ | 0.12  | 0.09  | -0.01
 PseudoBeforeAfterForInputElement                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/897) | ⣀⣀⣀⡐⠉⠉⠑⠉ | 0.07  | 0.03  | 0.05 
 QuotedAnimationName                                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/571) | ⠑⠉⢂⡠⠤⠤⠤⠒ | 0.15  | 0.09  | -0.02

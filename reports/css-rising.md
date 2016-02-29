@@ -1,6 +1,6 @@
 # Rising CSS Properties
 
-report generated Mon Feb 15 2016 12:53:17 GMT-0800 (PST)
+report generated Thu Feb 25 2016 16:31:01 GMT-0800 (PST)
 
 feature                      | raw | spark    | max   | avg   | trend
 ---------------------------- | --- | -------- | ----- | ----- | -----
@@ -14,10 +14,10 @@ alias-webkit-flex-direction  | [📈](https://www.chromestatus.com/metrics/css/t
 alias-webkit-justify-content | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/493) | ⡐⠊⠒⠊⠉⠉⠒⠉ | 12.43 | 11.05 | 0.9  
 stroke                       | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/378) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 9.75  | 4.16  | 0.78 
 webkit-app-region            | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/412) | ⣀⣀⣀⠊⠉⠒⠉⢄ | 1.94  | 0.82  | 0.76 
-font-feature-settings        | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/514) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0.75  | 0.08  | 0.74 
 webkit-box-align             | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/203) | ⠤⠔⢄⡠⠒⠒⠒⠊ | 7.18  | 5.63  | 0.67 
 animation-timing-function    | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/432) | ⣀⠔⢄⠔⠒⠉⠒⠊ | 7.04  | 6.13  | 0.58 
 fill-opacity                 | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/370) | ⠤⠤⢄⣀⡠⠤⠤⠌ | 8.1   | 2.3   | 0.56 
+font-feature-settings        | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/514) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0.75  | 0.07  | 0.53 
 background-origin            | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/26) | ⠤⠤⡐⠉⠉⠒⠢⠒ | 8.54  | 7.31  | 0.49 
 image-rendering              | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/82) | ⠤⠤⢄⡐⢂⠤⠤⠊ | 5.26  | 3.28  | 0.49 
 perspective                  | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/449) | ⠤⠔⢄⠔⠒⠉⠑⠊ | 6.3   | 5.16  | 0.47 
@@ -80,6 +80,6 @@ webkit-perspective-origin-y  | [📈](https://www.chromestatus.com/metrics/css/t
 webkit-box-decoration-break  | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/414) | ⡠⠔⢄⣀⠤⠤⢄⠌ | 0.2   | 0.15  | 0.01 
 marker                       | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/372) | ⣀⣀⣀⣀⣀⣀⣀⠊ | 0.04  | 0.01  | 0.01 
 webkit-transform-origin-x    | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/328) | ⠤⠤⣀⡠⠔⠒⠒⠉ | 0.12  | 0.09  | 0.01 
-text-orientation             | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/510) | ⣀⣀⣀⣀⣀⣀⡠⠌ | 0.01  | 0     | 0.01 
+text-orientation             | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/510) | ⣀⣀⣀⣀⣀⣀⣀⠌ | 0.01  | 0     | 0.01 
 webkit-column-rule-color     | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/222) | ⠤⠤⢄⠤⠤⠉⠑⡠ | 0.32  | 0.22  | 0.01 
 

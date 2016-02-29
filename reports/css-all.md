@@ -1,6 +1,6 @@
 # All CSS Properties
 
-report generated Mon Feb 15 2016 12:53:17 GMT-0800 (PST)
+report generated Thu Feb 25 2016 16:31:01 GMT-0800 (PST)
 
 feature                                 | raw | spark    | max   | avg   | trend
 --------------------------------------- | --- | -------- | ----- | ----- | -----
@@ -114,8 +114,8 @@ flex-shrink                             | [📈](https://www.chromestatus.com/me
 flex-wrap                               | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/239) | ⠔⠒⢄⠔⠉⠑⡠⡐ | 4.09  | 3.34  | -0.03
 flood-color                             | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/360) | ⣀⡠⠔⠔⠒⠊⠡⠒ | 0.04  | 0.02  | 0    
 flood-opacity                           | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/361) | ⣀⡠⠔⠔⠒⠊⠡⠒ | 0.04  | 0.02  | 0    
-font-display                            | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/516) | ⠒⠑⠒⠡⣀⠔⢄⡐ | 0     | 0     | 0    
-font-feature-settings                   | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/514) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0.75  | 0.08  | 0.74 
+font-display                            | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/516) | ⠒⠉⠔⠑⣀⠔⢄⡐ | 0     | 0     | 0    
+font-feature-settings                   | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/514) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0.75  | 0.07  | 0.53 
 font-kerning                            | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/13) | ⠒⠊⢄⠤⠔⠤⠤⠊ | 0.62  | 0.46  | 0    
 font-size-adjust                        | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/465) | ⠒⠉⠔⡠⢄⠤⣀⢄ | 0     | 0     | 0    
 font-stretch                            | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/80) | ⠉⠉⢄⠔⠊⠒⠒⠊ | 3     | 2.56  | -0.01
@@ -220,7 +220,7 @@ text-decoration-line                    | [📈](https://www.chromestatus.com/me
 text-decoration-style                   | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/402) | ⣀⣀⣀⣀⢁⣀⣀⣀ | 0     | 0     | 0    
 text-indent                             | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/130) | ⠉⠉⢄⡠⠤⢄⣀⠤ | 59.49 | 49.77 | -6.02
 text-justify                            | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/441) | ⡠⢁⣀⣀⢄⠤⣀⢄ | 0     | 0     | 0    
-text-orientation                        | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/510) | ⣀⣀⣀⣀⣀⣀⡠⠌ | 0.01  | 0     | 0.01 
+text-orientation                        | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/510) | ⣀⣀⣀⣀⣀⣀⣀⠌ | 0.01  | 0     | 0.01 
 text-overflow                           | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/136) | ⠊⠒⢄⠤⠤⣀⣀⡠ | 69.43 | 50.42 | -7.43
 text-rendering                          | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/11) | ⠉⠉⢄⡠⠤⠒⠔⠉ | 18.37 | 16.25 | -0.17
 text-shadow                             | [📈](https://www.chromestatus.com/metrics/css/timeline/popularity/142) | ⠊⠒⢄⠤⠤⣀⣀⡠ | 69.4  | 50.39 | -7.48

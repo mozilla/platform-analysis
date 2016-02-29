@@ -1,6 +1,6 @@
 # Prefixed vs Unprefixed Properties
 
-report generated Mon Feb 15 2016 12:53:17 GMT-0800 (PST)
+report generated Thu Feb 25 2016 16:31:01 GMT-0800 (PST)
 
 feature                    | bare  | prefixed | diff 
 -------------------------- | ----- | -------- | -----
@@ -33,7 +33,7 @@ shape-margin               | 0.01  | 0        | 0.01
 text-orientation           | 0     | 0.01     | -0.01
 transition-timing-function | 11.11 | 11.22    | -0.11
 transform-style            | 4.42  | 5.35     | -0.92
-font-feature-settings      | 0.08  | 1.07     | -0.99
+font-feature-settings      | 0.07  | 1.07     | -1   
 clip-path                  | 0.12  | 1.18     | -1.06
 mask                       | 0.14  | 1.28     | -1.14
 transition                 | 46.29 | 47.67    | -1.38

@@ -1,6 +1,6 @@
 # Trending JS Features
 
-report generated Mon Feb 15 2016 13:02:59 GMT-0800 (PST)
+report generated Thu Feb 25 2016 16:42:55 GMT-0800 (PST)
 
 feature                                                        | raw | spark    | max   | avg   | trend
 -------------------------------------------------------------- | --- | -------- | ----- | ----- | -----
@@ -39,176 +39,176 @@ InputTypeFileInsecureOrigin                                    | [📈](https://
 CSSStyleSheetAddRule                                           | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/220) | ⣀⣀⣀⣀⣀⣀⣀⠊ | 1.25  | 0.17  | 0.36 
 HTMLMediaElementPreloadAuto                                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/894) | ⣀⣀⣀⡐⠉⠉⠉⠉ | 0.54  | 0.24  | 0.36 
 ServiceWorkerControlledPage                                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/990) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0.95  | 0.06  | 0.35 
-MouseWheelEvent                                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1125) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0.01  | 0     | 0.34 
 SelectionDOMString                                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1012) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0.9   | 0.06  | 0.34 
+MouseWheelEvent                                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1125) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0.01  | 0     | 0.34 
 MessagePortsTransferred                                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/784) | ⣀⣀⠒⠉⠉⠉⠉⠉ | 0.59  | 0.36  | 0.33 
 V8StrictMode                                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1076) | ⡠⠢⠤⠢⠒⠒⠔⠌ | 0.55  | 0.35  | 0.33 
 V8MouseEvent_InitMouseEvent_Method                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/869) | ⣀⣀⠊⠉⠉⠉⠊⠊ | 0.71  | 0.43  | 0.32 
-ReadingCheckedInClickHandler                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/938) | ⣀⣀⡐⠉⠉⠉⠊⠉ | 0.38  | 0.22  | 0.29 
 LinkRelPrefetch                                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/917) | ⣀⣀⣀⠊⠉⠉⠉⠉ | 0.4   | 0.19  | 0.29 
+ReadingCheckedInClickHandler                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/938) | ⣀⣀⡐⠉⠉⠉⠊⠉ | 0.38  | 0.22  | 0.29 
 DOMFocusInOutEvent                                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/211) | ⣀⣀⣀⣀⣀⣀⠌⠉ | 0.81  | 0.33  | 0.25 
 V8MessagePort_Start_Method                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/782) | ⣀⣀⠊⠉⠉⠉⠒⠒ | 0.52  | 0.31  | 0.24 
 SVGSVGElementInDocument                                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/250) | ⠔⠒⢂⡠⠒⠊⠡⠔ | 13.23 | 10.64 | 0.24 
-InputTypeFileSecureOrigin                                      | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/801) | ⣀⣀⠉⠉⠉⠉⠒⠒ | 0.73  | 0.41  | 0.23 
 WebSocket                                                      | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1149) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0.23 
+InputTypeFileSecureOrigin                                      | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/801) | ⣀⣀⠉⠉⠉⠉⠒⠒ | 0.73  | 0.41  | 0.23 
 DeprecatedWebKitRadialGradient                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/263) | ⠤⠤⢄⣀⡈⠉⠒⠊ | 1.53  | 1.08  | 0.23 
 V8Performance_Memory_AttributeGetter                           | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/884) | ⣀⣀⠊⠉⠉⠉⠉⠊ | 0.47  | 0.28  | 0.22 
 CSSAtRulePage                                                  | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/975) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0.79  | 0.04  | 0.17 
 V8MemoryInfo_TotalJSHeapSize_AttributeGetter                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/879) | ⣀⣀⠊⠉⠉⠉⠊⠊ | 0.34  | 0.21  | 0.16 
-V8Console_Memory_AttributeGetter                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/877) | ⣀⣀⠌⠉⠉⠉⠉⠉ | 0.26  | 0.17  | 0.16 
 V8MemoryInfo_UsedJSHeapSize_AttributeGetter                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/880) | ⣀⣀⠊⠉⠉⠉⠉⠉ | 0.34  | 0.21  | 0.16 
-ContentEditableTrue                                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1130) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0.15 
+V8Console_Memory_AttributeGetter                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/877) | ⣀⣀⠌⠉⠉⠉⠉⠉ | 0.26  | 0.17  | 0.16 
 PrefixedDocumentFullscreenElement                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/323) | ⣀⣀⣀⣀⣀⣀⣀⠊ | 1.32  | 0.39  | 0.15 
+ContentEditableTrue                                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1130) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0.15 
 SelectionAnchorNode                                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/997) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0.4   | 0.02  | 0.14 
 V8KeyboardEvent_KeyIdentifier_AttributeGetter                  | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/805) | ⣀⣀⠊⠉⠉⠉⠒⠉ | 0.28  | 0.18  | 0.13 
 CSSValuePrefixedFillAvailable                                  | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/924) | ⣀⣀⣀⠊⠊⠉⠊⠉ | 0.2   | 0.09  | 0.13 
 V8Window_Alert_Method                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/950) | ⣀⣀⣀⣀⡠⠉⠉⠉ | 0.12  | 0.04  | 0.12 
-V8HTMLStyleElement_Disabled_AttributeGetter                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/812) | ⣀⣀⠒⠒⠒⠒⠉⠉ | 0.19  | 0.1   | 0.11 
-PresentationDefaultRequest                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/926) | ⣀⣀⣀⣀⣀⠌⠉⠉ | 0.15  | 0.04  | 0.11 
 FontFaceConstructor                                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/989) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0.33  | 0.02  | 0.11 
 PrefixedMaxDevicePixelRatioMediaFeature                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/234) | ⠤⠤⢄⣀⣀⣀⠒⠉ | 0.48  | 0.2   | 0.11 
+V8HTMLStyleElement_Disabled_AttributeGetter                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/812) | ⣀⣀⠒⠒⠒⠒⠉⠉ | 0.19  | 0.1   | 0.11 
+PresentationDefaultRequest                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/926) | ⣀⣀⣀⣀⣀⠌⠉⠉ | 0.15  | 0.04  | 0.11 
 HTMLMediaElementPreloadMetadata                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/893) | ⣀⣀⣀⡐⠉⠉⠉⠉ | 0.17  | 0.07  | 0.1  
 LinkRelPrerender                                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/918) | ⣀⣀⣀⠉⠉⠉⠊⠉ | 0.14  | 0.07  | 0.1  
 SVGClassName                                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/279) | ⠤⣀⣀⣀⣀⣀⠌⠉ | 0.61  | 0.37  | 0.1  
-AutocapitalizeAttribute                                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/764) | ⡐⠉⠑⠒⠒⠒⠒⠒ | 4.12  | 2.89  | 0.09 
-SelectionRangeCount                                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1002) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0.25  | 0.01  | 0.09 
-DOMStringList_Item_AttributeGetter_Location                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/847) | ⣀⣀⠉⠉⠉⠑⠒⠒ | 0.24  | 0.15  | 0.09 
 LinkHeaderDnsPrefetch                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/902) | ⣀⣀⣀⠌⠉⠉⠉⠉ | 0.13  | 0.06  | 0.09 
+AutocapitalizeAttribute                                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/764) | ⡐⠉⠑⠒⠒⠒⠒⠒ | 4.12  | 2.89  | 0.09 
+DOMStringList_Item_AttributeGetter_Location                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/847) | ⣀⣀⠉⠉⠉⠑⠒⠒ | 0.24  | 0.15  | 0.09 
+SelectionRangeCount                                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1002) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0.25  | 0.01  | 0.09 
 SelectionIsCollapsed                                           | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1001) | ⣀⣀⣀⣀⣀⣀⣀⠌ | 0.21  | 0.02  | 0.09 
-RequestFileSystemNonWebbyOrigin                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/876) | ⣀⣀⡐⠉⠉⠑⠒⠒ | 0.25  | 0.1   | 0.08 
 Sizes                                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/522) | ⣀⣀⣀⣀⣀⣀⠒⠉ | 0.22  | 0.06  | 0.08 
 SrcsetWDescriptor                                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/524) | ⣀⣀⣀⣀⣀⣀⠒⠊ | 0.23  | 0.06  | 0.08 
 TimeElement                                                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1100) | ⡠⠤⠤⠤⠡⠤⠔⠉ | 0.03  | 0.02  | 0.08 
+RequestFileSystemNonWebbyOrigin                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/876) | ⣀⣀⡐⠉⠉⠑⠒⠒ | 0.25  | 0.1   | 0.08 
 V8MemoryInfo_JSHeapSizeLimit_AttributeGetter                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/881) | ⣀⣀⠊⠉⠉⠉⠒⠊ | 0.19  | 0.11  | 0.08 
 V8HTMLLinkElement_Disabled_AttributeGetter                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/810) | ⣀⣀⠊⠉⠉⠉⠒⠉ | 0.15  | 0.1   | 0.07 
 WindowClientInformation                                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/695) | ⣀⣀⣀⣀⠤⠔⠒⠉ | 0.33  | 0.21  | 0.07 
 CSSValuePrefixedMinContent                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/921) | ⣀⣀⣀⠒⠉⠉⠒⠒ | 0.12  | 0.05  | 0.07 
-SelectionRemoveAllRanges                                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1005) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0.16  | 0.01  | 0.06 
+CSSAtRuleSupports                                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/976) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0.26  | 0.01  | 0.06 
 V8Window_Confirm_Method                                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/951) | ⣀⣀⣀⣀⡠⠑⠊⠉ | 0.06  | 0.02  | 0.06 
 CSSValuePrefixedFitContent                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/923) | ⣀⣀⣀⠉⠉⠉⠊⠉ | 0.08  | 0.04  | 0.06 
-CSSAtRuleSupports                                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/976) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0.26  | 0.01  | 0.06 
+SelectionRemoveAllRanges                                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1005) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0.16  | 0.01  | 0.06 
 CSSAnimationsStackedNeutralKeyframe                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/937) | ⣀⣀⡐⠉⠉⠒⠒⠒ | 0.1   | 0.05  | 0.06 
 WheelEventWheelDelta                                           | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/493) | ⢄⡠⡐⠉⠊⠉⠢⠒ | 0.64  | 0.49  | 0.06 
 SelectionGetRangeAt                                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1003) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0.18  | 0.01  | 0.06 
-MenuItemCloseTag                                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1105) | ⣀⢁⡠⠒⠑⠒⠂⠉ | 0     | 0     | 0.05 
-PresentationRequestSessionConnectEventListener                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/932) | ⣀⣀⣀⣀⣀⡐⠉⠉ | 0.08  | 0.02  | 0.05 
+MenuItemElement                                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1104) | ⣀⢁⡠⠒⠑⠒⠂⠉ | 0     | 0     | 0.05 
 PresentationRequestReconnect                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/930) | ⣀⣀⣀⣀⣀⡐⠉⠉ | 0.08  | 0.02  | 0.05 
 PresentationRequestGetAvailability                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/931) | ⣀⣀⣀⣀⣀⡐⠉⠉ | 0.08  | 0.02  | 0.05 
+V8IDBDatabase_ObjectStoreNames_AttributeGetter                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/824) | ⣀⣀⠊⠉⠉⠉⠒⠉ | 0.11  | 0.06  | 0.05 
 PresentationRequestConstructor                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/928) | ⣀⣀⣀⣀⣀⡐⠉⠉ | 0.08  | 0.02  | 0.05 
 PseudoBeforeAfterForInputElement                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/897) | ⣀⣀⣀⡐⠉⠉⠑⠉ | 0.07  | 0.03  | 0.05 
-TextInputFired                                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/830) | ⣀⣀⠉⠉⠉⠉⠉⠉ | 0.11  | 0.07  | 0.05 
-MenuItemElement                                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1104) | ⣀⢁⡠⠒⠑⠒⠂⠉ | 0     | 0     | 0.05 
-SVGSMILElementInDocument                                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/501) | ⡐⠉⠑⠉⠉⠒⠒⠒ | 0.65  | 0.44  | 0.05 
-V8IDBDatabase_ObjectStoreNames_AttributeGetter                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/824) | ⣀⣀⠊⠉⠉⠉⠒⠉ | 0.11  | 0.06  | 0.05 
-BackspaceNavigatedBack                                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/957) | ⣀⣀⣀⣀⡐⠉⠉⠉ | 0.05  | 0.02  | 0.05 
 PresentationAvailabilityChangeEventListener                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/927) | ⣀⣀⣀⣀⣀⡐⠉⠉ | 0.08  | 0.02  | 0.05 
+MenuItemCloseTag                                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1105) | ⣀⢁⡠⠒⠑⠒⠂⠉ | 0     | 0     | 0.05 
+SVGSMILElementInDocument                                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/501) | ⡐⠉⠑⠉⠉⠒⠒⠒ | 0.65  | 0.44  | 0.05 
+BackspaceNavigatedBack                                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/957) | ⣀⣀⣀⣀⡐⠉⠉⠉ | 0.05  | 0.02  | 0.05 
+TextInputFired                                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/830) | ⣀⣀⠉⠉⠉⠉⠉⠉ | 0.11  | 0.07  | 0.05 
+PresentationRequestConnectionAvailableEventListener            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/932) | ⣀⣀⣀⣀⣀⡐⠉⠉ | 0.08  | 0.02  | 0.05 
 SelectionAddRange                                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1004) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0.15  | 0.01  | 0.05 
-GlobalCacheStorage                                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/743) | ⣀⡠⣀⣀⠤⠔⠒⠉ | 0.27  | 0.17  | 0.04 
-FlexboxPercentageMarginVertical                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/956) | ⣀⣀⣀⣀⡠⠊⠉⠉ | 0.04  | 0.01  | 0.04 
-DocumentXPathCreateNSResolver                                  | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/296) | ⣀⣀⠌⠉⠉⠉⠊⠉ | 0.14  | 0.08  | 0.04 
+V8TextEvent_Data_AttributeGetter                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/831) | ⣀⣀⠉⠉⠉⠉⠉⠉ | 0.1   | 0.06  | 0.04 
+SelectionFocusNode                                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/999) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0.13  | 0     | 0.04 
+V8XPathEvaluator_Constructor                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/853) | ⣀⣀⣀⣀⣀⣀⣀⠊ | 0.16  | 0.02  | 0.04 
+V8XPathEvaluator_Evaluate_Method                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/856) | ⣀⣀⣀⣀⣀⣀⣀⠊ | 0.16  | 0.02  | 0.04 
 DocumentRegisterElement                                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/457) | ⡠⠒⠉⠉⠉⠉⠢⠤ | 1.28  | 1.05  | 0.04 
 V8MutationEvent_InitMutationEvent_Method                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/870) | ⣀⣀⠒⠉⠉⠉⠉⠉ | 0.1   | 0.05  | 0.04 
-V8TextEvent_Data_AttributeGetter                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/831) | ⣀⣀⠉⠉⠉⠉⠉⠉ | 0.1   | 0.06  | 0.04 
-WindowDefaultstatus                                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/358) | ⣀⡠⢄⡠⠤⠔⠒⠉ | 0.28  | 0.19  | 0.04 
-V8XPathEvaluator_Constructor                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/853) | ⣀⣀⣀⣀⣀⣀⣀⠊ | 0.16  | 0.02  | 0.04 
+GlobalCacheStorage                                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/743) | ⣀⡠⣀⣀⠤⠔⠒⠉ | 0.27  | 0.17  | 0.04 
+FlexboxPercentageMarginVertical                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/956) | ⣀⣀⣀⣀⡠⠊⠉⠉ | 0.04  | 0.01  | 0.04 
 SelectionAnchorOffset                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/998) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0.14  | 0.01  | 0.04 
+DocumentXPathCreateNSResolver                                  | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/296) | ⣀⣀⠌⠉⠉⠉⠊⠉ | 0.14  | 0.08  | 0.04 
+WindowDefaultstatus                                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/358) | ⣀⡠⢄⡠⠤⠔⠒⠉ | 0.28  | 0.19  | 0.04 
 SelectionFocusOffset                                           | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1000) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0.13  | 0.01  | 0.04 
-V8XPathEvaluator_Evaluate_Method                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/856) | ⣀⣀⣀⣀⣀⣀⣀⠊ | 0.16  | 0.02  | 0.04 
-SelectionFocusNode                                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/999) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0.13  | 0     | 0.04 
-V8Window_RequestIdleCallback_Method                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/954) | ⣀⣀⣀⣀⡠⠒⠒⠉ | 0.04  | 0.01  | 0.03 
 V8KeyboardEvent_InitKeyboardEvent_Method                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/868) | ⣀⣀⠊⠉⠉⠉⠉⠉ | 0.06  | 0.03  | 0.03 
-CSPSourceWildcardWouldMatchExactHost                           | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/959) | ⣀⣀⣀⣀⡐⠉⠊⠉ | 0.03  | 0.01  | 0.03 
-WheelEvent                                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1126) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0.03 
-SrcsetXDescriptor                                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/523) | ⣀⣀⠌⠒⠢⠤⠤⠤ | 1.13  | 0.67  | 0.03 
-WindowOffscreenBuffering                                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/356) | ⢄⠤⢄⣀⠊⠉⠒⠉ | 0.16  | 0.1   | 0.03 
-CrossOriginTextScript                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1069) | ⡠⠢⠔⠔⠒⠒⠔⠌ | 0.05  | 0.03  | 0.03 
 AudioContext                                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/652) | ⣀⣀⣀⣀⠡⠤⠡⠔ | 0.78  | 0.18  | 0.03 
+WindowOffscreenBuffering                                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/356) | ⢄⠤⢄⣀⠊⠉⠒⠉ | 0.16  | 0.1   | 0.03 
+V8Window_RequestIdleCallback_Method                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/954) | ⣀⣀⣀⣀⡠⠒⠒⠉ | 0.04  | 0.01  | 0.03 
+SrcsetXDescriptor                                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/523) | ⣀⣀⠌⠒⠢⠤⠤⠤ | 1.13  | 0.67  | 0.03 
+CSSAtRuleViewport                                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/977) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0.17  | 0     | 0.03 
+WheelEvent                                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1126) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0.03 
+CrossOriginTextScript                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1069) | ⡠⠢⠔⠔⠒⠒⠔⠌ | 0.05  | 0.03  | 0.03 
 CrossOriginOtherScript                                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1071) | ⡠⠢⠢⠢⠌⠒⠊⠊ | 0.03  | 0.01  | 0.03 
 ContentSecurityPolicyReportOnly                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/16) | ⢄⡠⠔⠒⠊⠒⠔⠉ | 0.35  | 0.18  | 0.03 
-CSSAtRuleViewport                                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/977) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0.17  | 0     | 0.03 
-ScreenOrientationType                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/558) | ⠤⠤⣀⣀⣀⠔⠉⠒ | 0.17  | 0.1   | 0.02 
+CSPSourceWildcardWouldMatchExactHost                           | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/959) | ⣀⣀⣀⣀⡐⠉⠊⠉ | 0.03  | 0.01  | 0.03 
 ClientHintsMetaAcceptCH                                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/904) | ⣀⣀⡐⠒⠑⠒⠑⣀ | 0.06  | 0.02  | 0.02 
 PrefixedAndUnprefixedAnimationEndEvent                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/130) | ⣀⡠⠒⠒⠑⠉⠒⠒ | 0.22  | 0.16  | 0.02 
-SVGSMILAnimationInImageRegardlessOfCache                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/768) | ⡠⠤⠒⠊⠉⠉⠉⠉ | 0.06  | 0.04  | 0.02 
-V8HTMLStyleElement_Disabled_AttributeSetter                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/813) | ⣀⣀⠉⠉⠉⠉⠉⠉ | 0.04  | 0.02  | 0.02 
-CrossOriginApplicationScript                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1070) | ⡠⠤⠤⠤⠔⠒⠔⠌ | 0.03  | 0.02  | 0.02 
-HTMLLinkElementDisabled                                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/809) | ⣀⣀⠊⠉⠉⠉⠒⠉ | 0.06  | 0.03  | 0.02 
-HTMLImportsHasStyleSheets                                      | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/940) | ⣀⣀⣀⣀⣀⠔⠒⠉ | 0.03  | 0     | 0.02 
-FlexboxIntrinsicSizeAlgorithmIsDifferent                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/939) | ⣀⣀⡠⠤⠤⠒⠒⠊ | 0.04  | 0.01  | 0.02 
-V8SVGElement_OffsetHeight_AttributeGetter                      | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/891) | ⣀⣀⣀⡐⠉⠉⠉⠉ | 0.04  | 0.01  | 0.02 
-V8SVGElement_OffsetWidth_AttributeGetter                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/890) | ⣀⣀⣀⡐⠉⠉⠉⠉ | 0.04  | 0.01  | 0.02 
-ScreenOrientationAngle                                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/557) | ⠤⠤⣀⣀⣀⠔⠊⠒ | 0.16  | 0.09  | 0.02 
-SelectionExtend                                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1009) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0.07  | 0     | 0.02 
 ClientHintsViewportWidth                                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/837) | ⣀⣀⡠⠒⠊⠒⠑⢄ | 0.06  | 0.01  | 0.02 
-DOMStringList_Contains_Method_IndexedDB                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/848) | ⣀⣀⠊⠉⠉⠉⠑⠉ | 0.05  | 0.03  | 0.02 
-ClientHintsResourceWidth                                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/836) | ⣀⣀⡠⠒⠊⠒⠑⢄ | 0.06  | 0.01  | 0.02 
-DOMNodeRemovedEvent                                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/145) | ⣀⡠⣀⣀⡐⠊⠒⠒ | 0.12  | 0.08  | 0.02 
 V8HTMLLinkElement_Disabled_AttributeSetter                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/811) | ⣀⣀⠊⠉⠉⠉⠒⠉ | 0.06  | 0.03  | 0.02 
+V8HTMLStyleElement_Disabled_AttributeSetter                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/813) | ⣀⣀⠉⠉⠉⠉⠉⠉ | 0.04  | 0.02  | 0.02 
+SVGSMILAnimationInImageRegardlessOfCache                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/768) | ⡠⠤⠒⠊⠉⠉⠉⠉ | 0.06  | 0.04  | 0.02 
+HTMLImportsHasStyleSheets                                      | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/940) | ⣀⣀⣀⣀⣀⠔⠒⠉ | 0.03  | 0     | 0.02 
 ClientHintsDPR                                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/835) | ⣀⣀⡠⠒⠊⠒⠑⢄ | 0.06  | 0.01  | 0.02 
-CSSValuePrefixedMaxContent                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/922) | ⣀⣀⣀⠊⠉⠉⠒⠊ | 0.02  | 0.01  | 0.01 
-UseAsm                                                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/473) | ⣀⡐⠢⠤⠔⠒⠔⠊ | 0.15  | 0.08  | 0.01 
-V8Animation_CurrentTime_AttributeGetter                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/547) | ⣀⣀⣀⣀⣀⡠⠒⠉ | 0.02  | 0     | 0.01 
+FlexboxIntrinsicSizeAlgorithmIsDifferent                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/939) | ⣀⣀⡠⠤⠤⠒⠒⠊ | 0.04  | 0.01  | 0.02 
+CrossOriginApplicationScript                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1070) | ⡠⠤⠤⠤⠔⠒⠔⠌ | 0.03  | 0.02  | 0.02 
+V8SVGElement_OffsetHeight_AttributeGetter                      | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/891) | ⣀⣀⣀⡐⠉⠉⠉⠉ | 0.04  | 0.01  | 0.02 
+ScreenOrientationAngle                                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/557) | ⠤⠤⣀⣀⣀⠔⠊⠒ | 0.16  | 0.09  | 0.02 
+V8SVGElement_OffsetWidth_AttributeGetter                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/890) | ⣀⣀⣀⡐⠉⠉⠉⠉ | 0.04  | 0.01  | 0.02 
+ScreenOrientationType                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/558) | ⠤⠤⣀⣀⣀⠔⠉⠒ | 0.17  | 0.1   | 0.02 
+DOMStringList_Contains_Method_IndexedDB                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/848) | ⣀⣀⠊⠉⠉⠉⠑⠉ | 0.05  | 0.03  | 0.02 
+SelectionExtend                                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1009) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0.07  | 0     | 0.02 
+DOMNodeRemovedEvent                                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/145) | ⣀⡠⣀⣀⡐⠊⠒⠒ | 0.12  | 0.08  | 0.02 
+HTMLLinkElementDisabled                                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/809) | ⣀⣀⠊⠉⠉⠉⠒⠉ | 0.06  | 0.03  | 0.02 
+ClientHintsResourceWidth                                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/836) | ⣀⣀⡠⠒⠊⠒⠑⢄ | 0.06  | 0.01  | 0.02 
+ClipCssOfPositionedElement                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/945) | ⣀⣀⣀⣀⡠⠉⠉⠉ | 0.02  | 0     | 0.01 
 NetInfoOnChange                                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/948) | ⣀⣀⣀⣀⣀⠤⠤⠌ | 0.05  | 0     | 0.01 
 NetInfoDownlinkMax                                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/947) | ⣀⣀⣀⣀⣀⠤⠤⠌ | 0.05  | 0     | 0.01 
-V8Window_Print_Method                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/953) | ⣀⣀⣀⣀⡠⠑⠊⠉ | 0.02  | 0     | 0.01 
 V8Animation_PlayState_AttributeGetter                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/551) | ⣀⣀⣀⣀⣀⡠⠒⠉ | 0.02  | 0     | 0.01 
 NavigatorVibrate                                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/850) | ⣀⣀⠒⠒⠉⠉⠊⠊ | 0.03  | 0.01  | 0.01 
-V8Animation_PlaybackRate_AttributeGetter                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/549) | ⣀⣀⣀⣀⣀⡠⠒⠉ | 0.02  | 0     | 0.01 
+V8Animation_CurrentTime_AttributeGetter                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/547) | ⣀⣀⣀⣀⣀⡠⠒⠉ | 0.02  | 0     | 0.01 
 V8Animation_StartTime_AttributeGetter                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/545) | ⣀⣀⣀⣀⣀⡠⠒⠉ | 0.02  | 0     | 0.01 
 MouseWheelAndWheelEvent                                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1127) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0.01 
-CSSFilterBrightness                                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1021) | ⣀⣀⡐⠒⠒⠒⠑⠊ | 0     | 0     | 0.01 
 V8Console_Memory_AttributeSetter                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/878) | ⣀⣀⠊⠉⠉⠉⠒⠒ | 0.03  | 0.01  | 0.01 
-ContentEditablePlainTextOnly                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1132) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0.01 
 V8Element_Animate_Method                                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/773) | ⣀⣀⣀⣀⣀⡠⠊⠒ | 0.05  | 0.01  | 0.01 
-PrefixedPerformanceResourceTimingBufferFull                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/920) | ⣀⣀⣀⠊⠑⠒⠊⠉ | 0.01  | 0     | 0.01 
+ContentEditablePlainTextOnly                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1132) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0.01 
+V8UIEvent_InitUIEvent_Method                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/873) | ⣀⣀⠊⠉⠉⠉⠊⠒ | 0.02  | 0.01  | 0.01 
 LinkRelSubresource                                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/916) | ⣀⣀⣀⠉⠑⠑⠉⠊ | 0.03  | 0.01  | 0.01 
+UseAsm                                                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/473) | ⣀⡐⠢⠤⠔⠒⠔⠊ | 0.15  | 0.08  | 0.01 
+CSSFilterBrightness                                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1021) | ⣀⣀⡐⠒⠒⠒⠑⠊ | 0     | 0     | 0.01 
+PrefixedPerformanceResourceTimingBufferFull                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/920) | ⣀⣀⣀⠊⠑⠒⠊⠉ | 0.01  | 0     | 0.01 
+CSSValuePrefixedMaxContent                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/922) | ⣀⣀⣀⠊⠉⠉⠒⠊ | 0.02  | 0.01  | 0.01 
 SendBeacon                                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/494) | ⠉⠒⢄⡠⠉⠊⠊⠔ | 2.72  | 2.13  | 0.01 
 V8MessagePort_Close_Method                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/783) | ⣀⣀⡠⠌⠡⠤⢄⠤ | 0.11  | 0.01  | 0.01 
 SRIElementWithMatchingIntegrityAttribute                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/540) | ⣀⣀⡠⠤⠔⠒⠒⠉ | 0.01  | 0     | 0.01 
 HeaderValueNotMatchingRFC7230                                  | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/943) | ⣀⣀⣀⣀⡠⠒⠑⠒ | 0.01  | 0     | 0.01 
-SVGForeignObjectElement                                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/325) | ⣀⡠⢄⠊⠉⠉⠒⠊ | 0.06  | 0.04  | 0.01 
+V8Window_Print_Method                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/953) | ⣀⣀⣀⣀⡠⠑⠊⠉ | 0.02  | 0     | 0.01 
 FullscreenInsecureOrigin                                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/766) | ⡐⠉⠉⠉⠉⠊⠊⠒ | 0.16  | 0.1   | 0.01 
-SVGSwitchElement                                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/80) | ⣀⡠⣀⠊⠉⠉⠒⠊ | 0.06  | 0.04  | 0.01 
+SVGForeignObjectElement                                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/325) | ⣀⡠⢄⠊⠉⠉⠒⠊ | 0.06  | 0.04  | 0.01 
 FormDataAppendFile                                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/839) | ⣀⣀⠉⠉⠉⠉⠉⠉ | 0.02  | 0.01  | 0.01 
-SameOriginOtherScript                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1068) | ⡈⠤⣀⣀⢄⠤⠤⠔ | 0.11  | 0.04  | 0.01 
+SVGSwitchElement                                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/80) | ⣀⡠⣀⠊⠉⠉⠒⠊ | 0.06  | 0.04  | 0.01 
 FetchBodyStream                                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/676) | ⣀⣀⣀⠔⠉⠒⠢⠊ | 0.02  | 0.01  | 0.01 
-V8UIEvent_InitUIEvent_Method                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/873) | ⣀⣀⠊⠉⠉⠉⠊⠒ | 0.02  | 0.01  | 0.01 
-ClipCssOfPositionedElement                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/945) | ⣀⣀⣀⣀⡠⠉⠉⠉ | 0.02  | 0     | 0.01 
-BackspaceNavigatedBackAfterFormInteraction                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/958) | ⣀⣀⣀⣀⡐⠉⠉⠉ | 0     | 0     | 0    
+V8Animation_PlaybackRate_AttributeGetter                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/549) | ⣀⣀⣀⣀⣀⡠⠒⠉ | 0.02  | 0     | 0.01 
+SameOriginOtherScript                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1068) | ⡈⠤⣀⣀⢄⠤⠤⠔ | 0.11  | 0.04  | 0.01 
+BackgroundSyncRegister                                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1025) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 V8CSSRuleList_Item_Method                                      | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/760) | ⡐⠉⠒⠤⠒⠤⠤⠒ | 0     | 0     | 0    
 V8CSSFontFaceRule_Style_AttributeGetter                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1082) | ⡐⠉⠊⠑⠒⠒⠒⠊ | 0     | 0     | 0    
 V8Animation_StartTime_AttributeSetter                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/546) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
-DevToolsConsoleProfile                                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/518) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
-AudioContextCreateChannelMerger                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/634) | ⣀⣀⣀⣀⣀⡠⠉⣀ | 0     | 0     | 0    
-DetailsElement                                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/480) | ⠒⠊⠡⠤⠤⡠⠔⠤ | 0.13  | 0.09  | 0    
+V8StyleSheetList_Item_Method                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/762) | ⡐⠉⠒⠒⠒⠢⠤⠒ | 0     | 0     | 0    
+AudioContextCreateBufferSource                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/633) | ⣀⣀⣀⣀⠤⠤⠊⠤ | 0.07  | 0.03  | 0    
+CSSFilterGrayscale                                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1015) | ⣀⣀⡠⠒⠔⠔⠒⠊ | 0     | 0     | 0    
 NamedNodeMapGetNamedItemNS                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/310) | ⣀⢁⣀⣀⣀⣀⣀⣀ | 0     | 0     | 0    
 V8Animation_Reverse_Method                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/555) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 NamedNodeMapRemoveNamedItem                                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/308) | ⠉⠉⠉⠒⠤⠤⢄⢄ | 0     | 0     | 0    
 NamedNodeMapRemoveNamedItemNS                                  | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/312) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
-V8TextEvent_InitTextEvent_Method                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/832) | ⣀⣀⠉⠉⠉⠉⠉⠑ | 0     | 0     | 0    
+BackspaceNavigatedBackAfterFormInteraction                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/958) | ⣀⣀⣀⣀⡐⠉⠉⠉ | 0     | 0     | 0    
 NamedNodeMapSetNamedItem                                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/307) | ⠒⠉⠊⠑⠤⠒⢄⠤ | 0     | 0     | 0    
-AudioContextCreateChannelSplitter                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/635) | ⣀⣀⣀⣀⣀⡠⠉⣀ | 0     | 0     | 0    
+AudioContextCreateChannelMerger                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/634) | ⣀⣀⣀⣀⣀⡠⠉⣀ | 0     | 0     | 0    
 NamedNodeMapSetNamedItemNS                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/311) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 V8DOMError_Constructor                                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/816) | ⣀⣀⠤⠌⠉⠑⠢⠢ | 0     | 0     | 0    
 V8Animation_PlaybackRate_AttributeSetter                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/550) | ⣀⣀⣀⣀⣀⡠⠒⠉ | 0.01  | 0     | 0    
 V8DOMError_Message_AttributeGetter                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/818) | ⣀⣀⠔⠊⠉⠉⠒⠒ | 0     | 0     | 0    
-DeprecatedWebKitRepeatingRadialGradient                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/264) | ⠑⠒⢂⠡⠔⠤⣀⠤ | 0     | 0     | 0    
+V8TextEvent_InitTextEvent_Method                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/832) | ⣀⣀⠉⠉⠉⠉⠉⠑ | 0     | 0     | 0    
 V8DOMError_Name_AttributeGetter                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/817) | ⣀⣀⠔⠉⠉⠑⠢⠒ | 0.01  | 0     | 0    
 V8Animation_Play_Method                                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/553) | ⣀⣀⣀⣀⣀⡠⠒⠉ | 0.01  | 0     | 0    
 MixedContentWebSocket                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/663) | ⠊⠒⠊⠢⠤⡠⣀⣀ | 0     | 0     | 0    
-V8TouchEvent_InitTouchEvent_Method                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/872) | ⣀⣀⠊⠉⠉⠉⠊⠊ | 0.01  | 0     | 0    
+DevToolsConsoleProfile                                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/518) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 MixedContentVideo                                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/618) | ⠤⣀⣀⡠⠤⠊⠊⠒ | 0.03  | 0.02  | 0    
 NavigatorVibrateSubFrame                                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/851) | ⣀⣀⠒⠊⠉⠒⠒⠤ | 0     | 0     | 0    
 V8Document_CreateTouch_Method                                  | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/874) | ⣀⣀⠊⠉⠉⠉⠊⠒ | 0     | 0     | 0    
-WindowFind                                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/696) | ⡠⠉⠡⠤⠤⣀⣀⣀ | 0.01  | 0     | 0    
-VTTCueRenderRtl                                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/418) | ⣀⣀⣀⣀⣀⣀⣀⢁ | 0     | 0     | 0    
-WhiteSpacePreFromXMLSpace                                      | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/679) | ⣀⠒⠒⠒⠒⠒⠒⠊ | 0     | 0     | 0    
-CryptoAlgorithmSha256                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/727) | ⠉⠒⠒⠤⠤⣀⡠⣀ | 0.01  | 0     | 0    
-CSSFilterGrayscale                                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1015) | ⣀⣀⡠⠒⠔⠔⠒⠊ | 0     | 0     | 0    
+DetailsElement                                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/480) | ⠒⠊⠡⠤⠤⡠⠔⠤ | 0.13  | 0.09  | 0    
+DialogElement                                                  | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/481) | ⣀⣀⣀⣀⣀⡠⠌⠔ | 0.06  | 0.02  | 0    
+DeprecatedWebKitRepeatingRadialGradient                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/264) | ⠑⠒⢂⠡⠔⠤⣀⠤ | 0     | 0     | 0    
+VTTCueRenderPositionNot50                                      | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/414) | ⢄⣀⣀⠔⠉⠑⠊⠉ | 0     | 0     | 0    
+V8TouchEvent_InitTouchEvent_Method                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/872) | ⣀⣀⠊⠉⠉⠉⠊⠊ | 0.01  | 0     | 0    
 V8FileReaderSync_ReadAsBinaryString_Method                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/815) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
-AudioContextCreateBiquadFilter                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/632) | ⠤⢄⢁⣀⠤⡠⠔⣀ | 0     | 0     | 0    
-MixedContentInternal                                           | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/615) | ⠉⠢⢄⣀⣀⣀⣀⣀ | 0     | 0     | 0    
 AudioContextCreateAnalyser                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/631) | ⡠⠤⠔⡠⠒⠉⠢⡠ | 0.01  | 0     | 0    
+MixedContentInternal                                           | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/615) | ⠉⠢⢄⣀⣀⣀⣀⣀ | 0     | 0     | 0    
+AudioContextClose                                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/689) | ⣀⣀⣀⣀⡈⣀⡈⣀ | 0     | 0     | 0    
 V8FileReader_Error_AttributeGetter                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/819) | ⣀⣀⠑⠤⠤⠤⠤⠤ | 0     | 0     | 0    
 NodeFilterIsFunction                                           | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1059) | ⡠⠤⠤⠤⠤⠔⠢⠌ | 0     | 0     | 0    
 V8FileReader_ReadAsBinaryString_Method                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/814) | ⣀⣀⠊⠉⠉⠉⠒⠒ | 0     | 0     | 0    
@@ -221,7 +221,7 @@ MixedContentFavicon                                            | [📈](https://
 V8Animation_Pause_Method                                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/554) | ⠉⠉⠉⠉⠉⠉⠡⣀ | 0     | 0     | 0    
 MixedContentBlockableAllowed                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/896) | ⣀⣀⣀⡠⠒⠉⠑⠉ | 0     | 0     | 0    
 V8Animation_Onfinish_AttributeSetter                           | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/701) | ⣀⣀⣀⣀⣀⡠⠒⠉ | 0.01  | 0     | 0    
-V8HTMLInputElement_Autocapitalize_AttributeGetter              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/754) | ⣀⣀⡠⠒⠊⠉⠒⠉ | 0     | 0     | 0    
+ConsoleTimelineEnd                                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/539) | ⠑⠢⠤⠤⠤⣀⣀⣀ | 0     | 0     | 0    
 NonCSSStyleSheetType                                           | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1122) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 MinAttribute                                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/43) | ⠑⠒⢂⠤⠤⣀⠌⠊ | 0.29  | 0.24  | 0    
 NonHTMLElementSetAttributeNodeFromHTMLDocumentNameNotLowercase | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/845) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
@@ -231,15 +231,15 @@ MeterElementWithMeterAppearance                                | [📈](https://
 NotificationAPISecureOriginIframe                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1148) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 MeterElement                                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/483) | ⠉⠉⠢⠤⠤⠤⣀⠤ | 0.04  | 0.03  | 0    
 NotificationCloseEvent                                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/603) | ⣀⠌⠒⠒⠒⠒⠒⠒ | 0     | 0     | 0    
-AudioContextCreateDelay                                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/637) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
+AudioContextCreateConvolver                                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/636) | ⣀⠔⠒⠒⠤⠤⠌⣀ | 0     | 0     | 0    
 NotificationClosed                                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/534) | ⠒⠉⠑⠉⠒⠒⢄⠤ | 0     | 0     | 0    
-VTTCueRenderAlignNotMiddle                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/416) | ⣀⣀⣀⣀⣀⣀⣀⢁ | 0     | 0     | 0    
+VTTCueRenderSizeNot100                                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/415) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 NotificationCreated                                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/533) | ⣀⠤⠤⠢⠤⢄⠌⠉ | 0     | 0     | 0    
-VideoFullscreenAllowedExemption                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/485) | ⠉⠒⠒⠢⣀⣀⣀⣀ | 0     | 0     | 0    
+CSSSelectorPseudoShadow                                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/467) | ⠒⠊⠉⠉⠒⠒⢄⣀ | 0.02  | 0.01  | 0    
 NotificationInsecureOrigin                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/564) | ⠒⠑⠢⠤⠤⠤⣀⣀ | 0     | 0     | 0    
 MediaStreamTrackGetSources                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/478) | ⠒⠊⠒⠒⠒⠒⢄⠤ | 0.08  | 0.06  | 0    
-AudioContextClose                                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/689) | ⣀⣀⣀⣀⡈⣀⡈⣀ | 0     | 0     | 0    
-CSSFilterContrast                                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1022) | ⣀⣀⡠⠒⠒⠒⠒⠊ | 0     | 0     | 0    
+VTTCueRenderSnapToLinesFalse                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/412) | ⣀⣀⢁⣀⣀⣀⣀⣀ | 0     | 0     | 0    
+CSSFilterBlur                                                  | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1023) | ⣀⣀⡠⠒⠒⠔⠒⠊ | 0     | 0     | 0    
 NotificationPermissionRequested                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/535) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0.05  | 0     | 0    
 MediaStreamLabel                                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/536) | ⠉⠉⠉⣀⣀⣀⣀⣀ | 0     | 0     | 0    
 NotificationSecureOrigin                                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/563) | ⠤⠌⠒⠉⠒⠒⢄⠤ | 0     | 0     | 0    
@@ -253,33 +253,33 @@ MediaStreamConstraintsConformant                               | [📈](https://
 OfflineAudioContextStartRendering                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1031) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 MediaDevicesEnumerateDevices                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1119) | ⡄⡄⡄⡄⡄⡄⠂⡄ | 0     | 0     | 0    
 V8Animation_Finish_Method                                      | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/552) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
-VTTCueRender                                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/410) | ⢄⣀⣀⡐⠉⠑⠊⠉ | 0     | 0     | 0    
+DialogInSandboxedContext                                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/767) | ⡐⠉⠊⠉⠒⠊⠉⠊ | 0     | 0     | 0    
 OverflowChangedEvent                                           | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/208) | ⠤⠊⠢⠤⣀⣀⣀⣀ | 0     | 0     | 0    
-AudioContextCreateDynamicsCompressor                           | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/638) | ⣀⡐⢄⠤⠤⠤⠤⠉ | 0.01  | 0     | 0    
-ContentEditableTrueOnHTML                                      | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1131) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
-CSSKeyframesRuleAppendRule                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/604) | ⣀⠌⢁⣀⣀⣀⣀⣀ | 0     | 0     | 0    
+AudioContextCreateDelay                                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/637) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
+AudioBufferSourceBufferOnce                                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/678) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
+CSSFilterSaturate                                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1017) | ⣀⣀⡠⠢⠒⠢⠒⠊ | 0     | 0     | 0    
 V8Animation_CurrentTime_AttributeSetter                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/548) | ⣀⣀⣀⣀⣀⡠⠒⠉ | 0.01  | 0     | 0    
-V8StyleSheetList_Item_Method                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/762) | ⡐⠉⠒⠒⠒⠢⠤⠒ | 0     | 0     | 0    
+V8StorageEvent_InitStorageEvent_Method                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/871) | ⣀⣀⠌⠑⠒⠑⢂⠒ | 0     | 0     | 0    
 PermissionStatusStatus                                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/852) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
-AudioContextCreateGain                                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/639) | ⣀⣀⣀⣀⢁⣀⣀⡠ | 0.39  | 0.03  | 0    
+AudioContextCreateDynamicsCompressor                           | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/638) | ⣀⡐⢄⠤⠤⠤⠤⠉ | 0.01  | 0     | 0    
 Picture                                                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/521) | ⠢⠔⢁⡠⠊⠑⡐⠊ | 0.08  | 0.06  | 0    
 LinkRelPreload                                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/901) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0     | 0     | 0    
 PictureSourceSrc                                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/520) | ⠉⠒⠢⠤⠤⠒⡐⡠ | 0     | 0     | 0    
+AudioContextCreateGain                                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/639) | ⣀⣀⣀⣀⢁⣀⣀⡠ | 0.39  | 0.03  | 0    
+WindowFindWithShadowTree                                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/862) | ⣀⣀⠉⠊⠒⠒⠢⠒ | 0     | 0     | 0    
 AudioContextCreateMediaElementSource                           | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/640) | ⠒⠔⠑⠢⠒⠤⣀⡠ | 0     | 0     | 0    
-DeprecatedFlexboxChromeExtension                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/63) | ⠤⠔⠉⠉⠉⠒⢄⠤ | 0.01  | 0     | 0    
-AudioContextCreateMediaStreamDestination                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/641) | ⠉⠉⠉⠒⠒⠤⣀⣀ | 0     | 0     | 0    
 V8Animation_Cancel_Method                                      | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/699) | ⣀⣀⣀⣀⣀⡠⠒⠉ | 0.01  | 0     | 0    
+AudioContextCreateMediaStreamDestination                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/641) | ⠉⠉⠉⠒⠒⠤⣀⣀ | 0     | 0     | 0    
+WindowFind                                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/696) | ⡠⠉⠡⠤⠤⣀⣀⣀ | 0.01  | 0     | 0    
 AudioContextCreateMediaStreamSource                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/642) | ⠉⠒⠉⠑⠒⠤⠤⡠ | 0     | 0     | 0    
-DeprecatedFlexboxChrome                                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/62) | ⠉⠉⠑⠒⠤⠤⣀⢄ | 0.01  | 0.01  | 0    
-AudioContextCreateOscillator                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/643) | ⣀⣀⣀⣀⣀⣀⣀⠌ | 0.01  | 0     | 0    
-WindowCaptureEvents                                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/289) | ⠉⠉⠢⠢⠤⠤⢄⢄ | 0.02  | 0.01  | 0    
-CryptoAlgorithmAesCbc                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/723) | ⠤⠤⠤⣀⣀⣀⠊⠉ | 0.01  | 0     | 0    
+ConsoleTimeline                                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/538) | ⠑⠒⠤⠤⠤⢄⣀⣀ | 0.01  | 0     | 0    
+CORSCredentialedNullOriginAccessAllowed                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/619) | ⠑⠒⢄⣀⣀⣀⣀⣀ | 0     | 0     | 0    
 PrefixedAndUnprefixedAnimationIterationEvent                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/136) | ⣀⡠⠒⠔⠑⠊⠒⠊ | 0.01  | 0.01  | 0    
-AudioContextCreatePanner                                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/644) | ⠑⠔⠒⠔⠒⠤⡐⠔ | 0     | 0     | 0    
+AudioContextCreateOscillator                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/643) | ⣀⣀⣀⣀⣀⣀⣀⠌ | 0.01  | 0     | 0    
 PrefixedAndUnprefixedAnimationStartEvent                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/133) | ⠑⠒⢂⢄⠤⣀⡐⠔ | 0.03  | 0.02  | 0    
-AudioContextCreatePeriodicWave                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/645) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
+AudioContextCreatePanner                                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/644) | ⠑⠔⠒⠔⠒⠤⡐⠔ | 0     | 0     | 0    
 UpgradeInsecureRequestsUpgradedRequest                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/741) | ⣀⣀⣀⠤⠢⠒⠊⠉ | 0     | 0     | 0    
-CryptoAlgorithmAesGcm                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/730) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
+CSSFilterDropShadow                                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1024) | ⣀⣀⡠⠒⠒⠔⠒⠊ | 0     | 0     | 0    
 UpgradeInsecureRequestsEnabled                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/740) | ⣀⣀⣀⣀⣀⣀⢄⠌ | 0     | 0     | 0    
 LegacyProtocolEmbeddedAsSubresource                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/531) | ⠉⠒⠢⠤⠤⡠⡠⣀ | 0     | 0     | 0    
 PrefixedAnimationIterationEvent                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/134) | ⣀⣀⣀⣀⡠⠌⣀⣀ | 0     | 0     | 0    
@@ -293,59 +293,59 @@ V8History_ScrollRestoration_AttributeGetter                    | [📈](https://
 UnprefixedAnimationIterationEvent                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/135) | ⣀⠤⣀⣀⡠⠤⠤⠉ | 0     | 0     | 0    
 V8History_ScrollRestoration_AttributeSetter                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1029) | ⣀⣀⠔⠒⠒⠒⠒⠊ | 0     | 0     | 0    
 PrefixedCancelRequestAnimationFrame                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/305) | ⠑⠉⠒⠒⠤⠔⢄⠤ | 0     | 0     | 0    
-VTTCueRenderSnapToLinesFalse                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/412) | ⣀⣀⢁⣀⣀⣀⣀⣀ | 0     | 0     | 0    
+CSSSelectorPseudoUnresolved                                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/466) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 UnprefixedAnimationEndEvent                                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/129) | ⣀⡠⢄⣀⠤⠢⠤⠊ | 0.03  | 0.02  | 0    
 V8IDBObjectStore_IndexNames_AttributeGetter                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/825) | ⣀⣀⠊⠉⠉⠉⠑⠉ | 0     | 0     | 0    
-V8Window_Prompt_Method                                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/952) | ⣀⣀⣀⣀⡠⠒⠉⠉ | 0     | 0     | 0    
+WhiteSpaceNowrapFromXMLSpace                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/680) | ⠔⢂⠤⠡⠔⠤⢂⣀ | 0     | 0     | 0    
 V8IDBRequest_Error_AttributeGetter                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/820) | ⣀⣀⠤⠌⠉⠒⠢⠢ | 0     | 0     | 0    
 TextWholeText                                                  | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/599) | ⢄⠤⠢⠤⠤⠒⣀⠊ | 0.03  | 0.02  | 0    
 InsertAdjacentText                                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/140) | ⠢⠌⢂⣀⣀⡠⢄⠤ | 0     | 0     | 0    
 PrefixedDirectoryAttribute                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/47) | ⠉⠉⠑⠤⠤⠤⣀⠤ | 0.01  | 0     | 0    
 V8IDBTransaction_Error_AttributeGetter                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/821) | ⣀⣀⠉⠢⠤⠤⣀⢄ | 0     | 0     | 0    
-WebSocketURL                                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/255) | ⠉⠢⢄⣀⣀⣀⣀⣀ | 0     | 0     | 0    
+VideoFullscreenAllowedExemption                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/485) | ⠉⠒⠒⠢⣀⣀⣀⣀ | 0     | 0     | 0    
 InsertAdjacentElement                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/141) | ⠉⠑⠒⠒⠤⠤⢄⠊ | 0.01  | 0.01  | 0    
 PrefixedDocumentCurrentFullScreenElement                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/320) | ⠒⠒⠢⠔⠢⡠⡠⠌ | 0.06  | 0.04  | 0    
 InputTypeWeek                                                  | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/39) | ⣀⢁⣀⣀⣀⣀⣀⣀ | 0     | 0     | 0    
 PrefixedDocumentExitFullscreen                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/324) | ⠑⠒⢂⣀⠤⡠⡈⡠ | 0.07  | 0.05  | 0    
 V8InputDeviceCapabilities_FiresTouchEvents_AttributeGetter     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1098) | ⣀⠤⠒⠢⠒⠤⠒⠊ | 0     | 0     | 0    
-AudioBufferSourceBufferOnce                                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/678) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
+WhiteSpacePreFromXMLSpace                                      | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/679) | ⣀⠒⠒⠒⠒⠒⠒⠊ | 0     | 0     | 0    
 InputTypeTime                                                  | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/37) | ⠑⠉⠒⠒⠒⠒⢄⠢ | 0     | 0     | 0    
 TextEncoderEncode                                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/430) | ⣀⣀⣀⣀⣀⢁⣀⣀ | 0     | 0     | 0    
 V8IntlResolved                                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1136) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 TextEncoderConstructor                                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/429) | ⠑⠉⠒⠑⠤⠤⢄⠒ | 0     | 0     | 0    
-CryptoAlgorithmEcdh                                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/736) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
+BlockableMixedContentInSubframeBlocked                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/966) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0.03  | 0     | 0    
 PrefixedElementRequestFullScreen                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/177) | ⠉⠒⠑⠢⠢⠤⡠⣀ | 0.02  | 0.02  | 0    
-AudioContextCreateScriptProcessor                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/646) | ⠒⠒⠉⠒⠒⠢⢄⡐ | 0     | 0     | 0    
+AudioContextCreatePeriodicWave                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/645) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 PrefixedElementRequestFullscreen                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/176) | ⠤⠤⢄⣀⢄⡐⠊⠔ | 0.12  | 0.08  | 0    
-AudioContextCreateStereoPanner                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/647) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
+AudioContextCreateScriptProcessor                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/646) | ⠒⠒⠉⠒⠒⠢⢄⡐ | 0     | 0     | 0    
 PrefixedFileRelativePath                                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/386) | ⣀⣀⣀⣀⣀⣀⠢⠉ | 0     | 0     | 0    
 V8MediaList_Item_Method                                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/761) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0     | 0     | 0    
 TextDecoderDecode                                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/432) | ⣀⣀⣀⣀⣀⣀⡈⣀ | 0     | 0     | 0    
-CSSFilterDropShadow                                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1024) | ⣀⣀⡠⠒⠒⠔⠒⠊ | 0     | 0     | 0    
+DocumentAllLegacyCall                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/150) | ⠉⠉⠢⠢⠔⠔⢄⠢ | 0.01  | 0     | 0    
 PrefixedIDBCursorConstructor                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/363) | ⠉⠉⠒⠒⠊⠑⣀⠊ | 0.01  | 0.01  | 0    
 InputTypeRangeVerticalAppearance                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1013) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0     | 0     | 0    
 PrefixedIDBDatabaseConstructor                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/364) | ⠉⠉⠒⠒⠊⠑⣀⠊ | 0.01  | 0.01  | 0    
-AudioContextCreateWaveShaper                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/648) | ⣀⣀⣀⢁⣀⣀⣀⣀ | 0     | 0     | 0    
+AudioContextCreateStereoPanner                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/647) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 PrefixedIDBFactoryConstructor                                  | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/365) | ⠉⠉⠒⠒⠊⠑⣀⠊ | 0.01  | 0.01  | 0    
-AudioContextDecodeAudioData                                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/649) | ⣀⡠⠔⠒⠑⠊⠑⠒ | 0.06  | 0.03  | 0    
+AudioContextCreateWaveShaper                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/648) | ⣀⣀⣀⢁⣀⣀⣀⣀ | 0     | 0     | 0    
 PrefixedIDBIndexConstructor                                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/366) | ⠉⠉⠒⠒⠊⠑⣀⠊ | 0.01  | 0.01  | 0    
-AudioContextResume                                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/650) | ⣀⣀⣀⣀⢁⣀⣀⣀ | 0.02  | 0     | 0    
+AudioContextDecodeAudioData                                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/649) | ⣀⡠⠔⠒⠑⠊⠑⠒ | 0.06  | 0.03  | 0    
 PrefixedIDBKeyRangeConstructor                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/367) | ⠉⠉⠒⠒⠊⠑⣀⠊ | 0.01  | 0.01  | 0    
-WindowFindWithShadowTree                                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/862) | ⣀⣀⠉⠊⠒⠒⠢⠒ | 0     | 0     | 0    
+V8SecurityPolicyViolationEvent_StatusCode_AttributeGetter      | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/808) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 PrefixedIDBObjectStoreConstructor                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/368) | ⠉⠉⠒⠒⠊⠑⣀⠊ | 0.01  | 0.01  | 0    
 InputTypeMonth                                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/32) | ⠊⠉⠒⠒⠒⠊⢂⠒ | 0     | 0     | 0    
 PrefixedIDBRequestConstructor                                  | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/369) | ⠉⠉⠒⠒⠊⠑⣀⠊ | 0.01  | 0.01  | 0    
-AudioContextSuspend                                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/651) | ⣀⣀⣀⣀⢁⣀⣀⣀ | 0.29  | 0     | 0    
+AudioContextResume                                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/650) | ⣀⣀⣀⣀⢁⣀⣀⣀ | 0.02  | 0     | 0    
 PrefixedIDBTransactionConstructor                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/370) | ⠉⠉⠒⠒⠊⠑⣀⠊ | 0.01  | 0.01  | 0    
-AudioListenerDopplerFactor                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/620) | ⠢⠤⠑⠢⠔⣀⡈⣀ | 0     | 0     | 0    
+AudioContextSuspend                                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/651) | ⣀⣀⣀⣀⢁⣀⣀⣀ | 0.29  | 0     | 0    
 PrefixedImageSmoothingEnabled                                  | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/267) | ⠤⠔⠑⠤⠤⡠⣀⢄ | 0.01  | 0     | 0    
 InputTypeEmailMultipleMaxLength                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/186) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 TextDecoderConstructor                                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/431) | ⠑⠉⠢⠒⠤⠤⡠⠢ | 0     | 0     | 0    
 InputTypeEmailMultiple                                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/184) | ⠉⠉⠒⠉⠒⠑⢂⠑ | 0     | 0     | 0    
-DataElement                                                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1099) | ⠤⠤⡠⠤⠡⣀⠤⠌ | 0     | 0     | 0    
-XMLExternalResourceLoad                                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/529) | ⣀⣀⡠⣀⣀⠤⣀⠌ | 0     | 0     | 0    
+AttributeOwnerElement                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/160) | ⠤⢄⣀⣀⢄⢄⠡⢄ | 0     | 0     | 0    
+XSLProcessingInstruction                                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/78) | ⠑⠊⠢⠤⠤⠤⢄⠤ | 0     | 0     | 0    
 PrefixedMediaAddKey                                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/71) | ⠉⠑⢂⣀⣀⣀⣀⣀ | 0     | 0     | 0    
-AudioListenerSetVelocity                                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/622) | ⣀⣀⡠⢄⣀⣀⡈⣀ | 0     | 0     | 0    
+AudioListenerDopplerFactor                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/620) | ⠢⠤⠑⠢⠔⣀⡈⣀ | 0     | 0     | 0    
 PrefixedMediaCancelKeyRequest                                  | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/229) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 InputTypeDateTimeLocal                                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/30) | ⠌⠊⠒⠤⠤⠤⢄⠤ | 0     | 0     | 0    
 PrefixedMediaGenerateKeyRequest                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/72) | ⠑⠒⢂⣀⣀⣀⣀⣀ | 0     | 0     | 0    
@@ -359,76 +359,76 @@ InitMessageEvent                                               | [📈](https://
 SubtleCryptoUnwrapKey                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/722) | ⠉⠒⠒⠤⠤⣀⡠⣀ | 0     | 0     | 0    
 IncrementalAttribute                                           | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/25) | ⠒⠑⠢⠔⠤⠤⣀⠤ | 0.02  | 0.01  | 0    
 PrefixedOfflineAudioContext                                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/655) | ⠒⠉⠒⠒⠊⠑⣀⠊ | 0.01  | 0.01  | 0    
-DialogElement                                                  | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/481) | ⣀⣀⣀⣀⣀⡠⠌⠔ | 0.06  | 0.02  | 0    
+V8SecurityPolicyViolationEvent_DocumentURI_AttributeGetter     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/806) | ⡠⣀⠡⢄⣀⣀⣀⠔ | 0     | 0     | 0    
 SubtleCryptoSign                                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/713) | ⠉⠒⠒⠤⠤⣀⡠⣀ | 0.01  | 0     | 0    
-AudioListenerSpeedOfSound                                      | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/621) | ⠢⠔⠊⠉⠉⠒⠤⢄ | 0     | 0     | 0    
+AudioListenerSetVelocity                                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/622) | ⣀⣀⡠⢄⣀⣀⡈⣀ | 0     | 0     | 0    
 SubtleCryptoImportKey                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/717) | ⠒⠤⠤⢄⣀⣀⠌⠉ | 0.01  | 0     | 0    
 HTMLTableElementVspace                                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/374) | ⠉⠉⢄⣀⣀⣀⣀⣀ | 0     | 0     | 0    
-CryptoAlgorithmSha1                                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/726) | ⠉⠒⠒⠤⠤⣀⡠⣀ | 0.01  | 0     | 0    
+CSSFilterContrast                                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1022) | ⣀⣀⡠⠒⠒⠒⠒⠊ | 0     | 0     | 0    
 HTMLTableElementHspace                                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/375) | ⠉⠉⢄⣀⣀⣀⣀⣀ | 0     | 0     | 0    
 SubtleCryptoGenerateKey                                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/716) | ⠉⠒⠢⢄⢄⣀⠌⠒ | 0.01  | 0     | 0    
 HTMLObjectElementLegacyCall                                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/153) | ⠉⠑⣀⣀⣀⣀⣀⣀ | 0     | 0     | 0    
 SubtleCryptoExportKey                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/718) | ⠉⠒⠢⠤⢄⣀⠔⠔ | 0.01  | 0     | 0    
 HTMLMediaElementSeekToFragmentStart                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/281) | ⣀⣀⣀⡠⠒⠑⠒⠒ | 0     | 0     | 0    
 SubtleCryptoEncrypt                                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/711) | ⠉⠒⠢⠤⢄⣀⠔⠒ | 0.01  | 0     | 0    
-AudioNodeConnectToAudioNode                                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1078) | ⣀⠤⠤⠤⠤⠤⠌⠤ | 0     | 0     | 0    
+AudioListenerSpeedOfSound                                      | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/621) | ⠢⠔⠊⠉⠉⠒⠤⢄ | 0     | 0     | 0    
 SubtleCryptoDigest                                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/715) | ⣀⣀⣀⢁⢁⠉⢁⠉ | 0     | 0     | 0    
-AudioNodeConnectToAudioParam                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1079) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
+AudioNodeConnectToAudioNode                                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1078) | ⣀⠤⠤⠤⠤⠤⠌⠤ | 0     | 0     | 0    
 SubtleCryptoDeriveKey                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/720) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 HTMLMediaElementPreloadForcedNone                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/980) | ⣀⣀⣀⣀⠤⠤⠤⠌ | 0     | 0     | 0    
 SubtleCryptoDeriveBits                                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/719) | ⣀⣀⣀⣀⣀⢁⣀⣀ | 0     | 0     | 0    
-AudioNodeDisconnectFromAudioNode                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1080) | ⣀⠤⠒⠔⠔⠒⠔⠌ | 0     | 0     | 0    
+AudioNodeConnectToAudioParam                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1079) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 SubtleCryptoDecrypt                                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/712) | ⠒⠤⠤⢄⣀⣀⠌⠉ | 0.01  | 0     | 0    
-AudioParamCancelScheduledValues                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/914) | ⣀⣀⣀⡐⠒⠒⠑⠉ | 0     | 0     | 0    
+AudioNodeDisconnectFromAudioNode                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1080) | ⣀⠤⠒⠔⠔⠒⠔⠌ | 0     | 0     | 0    
 StyleSheetListAnonymousNamedGetter                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/763) | ⡐⠉⠊⠉⠉⠑⠢⠒ | 0.03  | 0.02  | 0    
 HTMLMediaElementPauseAtFragmentEnd                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/282) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 StyleMediaMatchMedium                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/608) | ⠉⠤⠤⠤⢄⣀⣀⣀ | 0.02  | 0     | 0    
-AudioParamExponentialRampToValueAtTime                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/911) | ⣀⣀⣀⣀⣀⡐⢄⡈ | 0     | 0     | 0    
+AudioParamCancelScheduledValues                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/914) | ⣀⣀⣀⡐⠒⠒⠑⠉ | 0     | 0     | 0    
 StyleMedia                                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/606) | ⠊⢂⣀⣀⠤⠔⠒⠒ | 0.33  | 0.26  | 0    
-CryptoAlgorithmEcdsa                                           | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/735) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
-ConsoleTimelineEnd                                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/539) | ⠑⠢⠤⠤⠤⣀⣀⣀ | 0     | 0     | 0    
+ContentEditableTrueOnHTML                                      | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1131) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
+WebSocketURL                                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/255) | ⠉⠢⢄⣀⣀⣀⣀⣀ | 0     | 0     | 0    
 HTMLLabelElementFormIDLAttribute                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/985) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0     | 0     | 0    
 PrefixedVideoDecodedByteCount                                  | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/165) | ⠢⠤⢄⣀⠊⠑⠤⡠ | 0     | 0     | 0    
 HTMLLabelElementFormContentAttribute                           | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/986) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0     | 0     | 0    
-CSSFilterBlur                                                  | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1023) | ⣀⣀⡠⠒⠒⠔⠒⠊ | 0     | 0     | 0    
+BorderImageWithBorderStyleNone                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1026) | ⣀⣀⠔⠊⠒⠔⠒⠊ | 0     | 0     | 0    
 HTMLKeygenElement                                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/886) | ⣀⣀⠊⠉⠉⠉⠒⠑ | 0.01  | 0     | 0    
 PrefixedVideoDisplayingFullscreen                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/167) | ⠤⠤⠤⠒⠡⠤⣀⣀ | 0.01  | 0     | 0    
-CryptoAlgorithmHmac                                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/724) | ⠉⠒⠒⠤⠤⣀⡠⣀ | 0.01  | 0     | 0    
+VTTCueRenderAlignNotMiddle                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/416) | ⣀⣀⣀⣀⣀⣀⣀⢁ | 0     | 0     | 0    
 SrcsetDroppedCandidate                                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/573) | ⠢⠒⠢⢄⠢⠡⠤⠢ | 0     | 0     | 0    
 HTMLImportsAsyncAttribute                                      | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/463) | ⣀⣀⡠⣀⡠⠤⠉⠤ | 0     | 0     | 0    
 PrefixedVideoEnterFullScreen                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/170) | ⠉⠉⠢⠤⠤⣀⣀⡠ | 0     | 0     | 0    
-AudioParamLinearRampToValueAtTime                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/910) | ⣀⣀⣀⠔⠒⠊⠑⠉ | 0     | 0     | 0    
+AudioParamExponentialRampToValueAtTime                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/911) | ⣀⣀⣀⣀⣀⡐⢄⡈ | 0     | 0     | 0    
 PrefixedVideoEnterFullscreen                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/168) | ⠡⠤⠤⣀⣀⣀⣀⣀ | 0     | 0     | 0    
-VTTCueRenderSizeNot100                                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/415) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
+CSSStyleSheetInsertRuleOptionalArg                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/198) | ⠑⠊⠑⠊⠒⠤⣀⣀ | 0.01  | 0.01  | 0    
 PrefixedVideoExitFullScreen                                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/171) | ⠑⠢⠤⠤⠤⣀⣀⣀ | 0     | 0     | 0    
 V8Navigator_GetStorageUpdates_Method                           | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/827) | ⣀⣀⢄⣀⣀⢄⣀⡈ | 0     | 0     | 0    
 PrefixedVideoExitFullscreen                                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/169) | ⠉⠉⠑⠢⠤⢄⠤⣀ | 0     | 0     | 0    
 HTMLEmbedElementLegacyCall                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/152) | ⠒⠡⣀⣀⣀⣀⣀⣀ | 0     | 0     | 0    
 PrefixedVideoSupportsFullscreen                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/166) | ⠑⠒⠒⠒⠢⣀⣀⣀ | 0     | 0     | 0    
-AudioParamSetTargetAtTime                                      | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/912) | ⣀⣀⣀⣀⣀⣀⠑⣀ | 0     | 0     | 0    
-WhiteSpaceNowrapFromXMLSpace                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/680) | ⠔⢂⠤⠡⠔⠤⢂⣀ | 0     | 0     | 0    
-AudioParamSetValueAtTime                                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/909) | ⣀⣀⣀⡠⠒⠒⠑⠊ | 0.01  | 0     | 0    
+AudioParamLinearRampToValueAtTime                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/910) | ⣀⣀⣀⠔⠒⠊⠑⠉ | 0     | 0     | 0    
 CSSSelectorPseudoHostContext                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/470) | ⠤⠔⢂⣀⣀⡠⠢⠉ | 0.02  | 0.01  | 0    
-AudioParamSetValueCurveAtTime                                  | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/913) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
-AttributeOwnerElement                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/160) | ⠤⢄⣀⣀⢄⢄⠡⢄ | 0     | 0     | 0    
-HTMLDocumentCreateAttributeNameNotLowercase                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/844) | ⣀⣀⠊⠉⠉⠉⠑⠑ | 0     | 0     | 0    
+AudioParamSetTargetAtTime                                      | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/912) | ⣀⣀⣀⣀⣀⣀⠑⣀ | 0     | 0     | 0    
 WebkitTextInClipProperty                                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/941) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
+AudioParamSetValueAtTime                                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/909) | ⣀⣀⣀⡠⠒⠒⠑⠊ | 0.01  | 0     | 0    
+PresentationConnectionMessageEventListener                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/936) | ⣀⣀⣀⣀⣀⣀⣀⠌ | 0     | 0     | 0    
+HTMLDocumentCreateAttributeNameNotLowercase                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/844) | ⣀⣀⠊⠉⠉⠉⠑⠑ | 0     | 0     | 0    
+PresentationConnectionSend                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/934) | ⣀⣀⣀⣀⣀⣀⣀⠌ | 0     | 0     | 0    
 HTMLAppletElement                                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/280) | ⠉⠉⠢⠤⠤⠤⣀⣀ | 0     | 0     | 0    
+AttrTextContent                                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/349) | ⠤⠊⠉⠊⠒⠢⢄⢄ | 0.03  | 0.02  | 0    
+AudioParamSetValueCurveAtTime                                  | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/913) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 CSSSelectorPseudoFullScreenDocument                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/627) | ⡠⠌⠤⢄⣀⣀⣀⣀ | 0     | 0     | 0    
-WindowMoveResizeMissingArguments                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/684) | ⠡⣀⣀⣀⣀⣀⣀⣀ | 0     | 0     | 0    
+CSSStyleSheetRemoveRule                                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/221) | ⠑⠒⢄⠤⠤⣀⡠⣀ | 0     | 0     | 0    
 WebkitTextInColorProperty                                      | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/942) | ⣀⣀⣀⣀⣀⠔⠒⠑ | 0     | 0     | 0    
-CSSSelectorPseudoShadow                                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/467) | ⠒⠊⠉⠉⠒⠒⢄⣀ | 0.02  | 0.01  | 0    
-ConsoleTimeline                                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/538) | ⠑⠒⠤⠤⠤⢄⣀⣀ | 0.01  | 0     | 0    
 GetUserMediaSecureOriginIframe                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1145) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
-PresentationRequestStart                                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/929) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
+CSSFilterInvert                                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1019) | ⣀⣀⡠⠤⠢⠤⠤⠊ | 0     | 0     | 0    
 GetUserMediaSecureOrigin                                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/667) | ⠤⡠⠒⠉⠉⠢⠤⡠ | 0.03  | 0.02  | 0    
-PresentationSessionMessageEventListener                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/936) | ⣀⣀⣀⣀⣀⣀⣀⠌ | 0     | 0     | 0    
+CSSSelectorInternalPseudoListBox                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1062) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 GetUserMediaInsecureOriginIframe                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1144) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
-PresentationSessionSend                                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/934) | ⣀⣀⣀⣀⣀⣀⣀⠌ | 0     | 0     | 0    
+PresentationRequestStart                                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/929) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 GetUserMediaInsecureOrigin                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/666) | ⠒⠒⠉⠊⠉⠒⢄⣀ | 0     | 0     | 0    
 ShowModalDialog                                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/195) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 GetMatchedCSSRules                                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/155) | ⠑⠊⠑⠑⠒⠒⣀⣀ | 0.04  | 0.03  | 0    
-CSSFilterReference                                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1014) | ⣀⣀⡠⠤⠊⠒⠤⠌ | 0     | 0     | 0    
+CSSSelectorInternalMediaControlsOverlayCastButton              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1064) | ⣀⣀⣀⣀⣀⣀⡐⡈ | 0     | 0     | 0    
 GeolocationSecureOriginIframe                                  | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1142) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 SharedWorkerStart                                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/5) | ⠢⠒⠉⠉⠉⠒⢄⠤ | 0.06  | 0.04  | 0    
 V8Permissions_Query_Method                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/750) | ⣀⣀⣀⣀⣀⠊⠒⠊ | 0     | 0     | 0    
@@ -439,7 +439,7 @@ V8PromiseDefer                                                 | [📈](https://
 RTCPeerConnectionConstructorConstraints                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1041) | ⣀⠔⠒⠒⠒⠒⠒⠊ | 0     | 0     | 0    
 FullscreenSecureOrigin                                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/765) | ⡈⠉⠑⠑⠉⠒⠊⠒ | 0.06  | 0.04  | 0    
 RTCPeerConnectionCreateAnswerLegacyCompliant                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1051) | ⣀⠉⠉⠉⠉⠉⠉⠉ | 0     | 0     | 0    
-DialogInSandboxedContext                                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/767) | ⡐⠉⠊⠉⠒⠊⠉⠊ | 0     | 0     | 0    
+DocumentCaretRangeFromPoint                                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/387) | ⠒⠉⠢⠤⠤⠤⣀⠢ | 0.04  | 0.02  | 0    
 RTCPeerConnectionCreateAnswerLegacyConstraints                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1050) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 V8RegExpPrototypeStickyGetter                                  | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1096) | ⡠⠔⠒⠒⠒⠒⠒⠉ | 0     | 0     | 0    
 RTCPeerConnectionCreateAnswerLegacyFailureCallback             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1049) | ⣀⠉⠉⠉⠉⠉⠉⠉ | 0     | 0     | 0    
@@ -455,7 +455,7 @@ FormDataAppendNull                                             | [📈](https://
 RTCPeerConnectionCreateOfferLegacyNoFailureCallback            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1043) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 FormDataAppendFileWithFilename                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/840) | ⣀⣀⠊⠉⠉⠉⠒⠑ | 0     | 0     | 0    
 RTCPeerConnectionCreateOfferLegacyOfferOptions                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1046) | ⣀⠒⠒⠒⠒⠒⠒⠊ | 0     | 0     | 0    
-V8StorageEvent_InitStorageEvent_Method                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/871) | ⣀⣀⠌⠑⠒⠑⢂⠒ | 0     | 0     | 0    
+V8SecurityPolicyViolationEvent_BlockedURI_AttributeGetter      | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/807) | ⣀⣀⢂⣀⣀⣀⠒⠉ | 0     | 0     | 0    
 RTCPeerConnectionGetStatsLegacyNonCompliant                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1058) | ⡠⠒⠊⠒⠒⠒⠑⠊ | 0     | 0     | 0    
 FormDataAppendBlobWithFilename                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/842) | ⣀⣀⠊⠉⠉⠉⠒⠉ | 0     | 0     | 0    
 RTCPeerConnectionSetLocalDescriptionLegacyCompliant            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1054) | ⣀⠔⠒⠒⠒⠒⠒⠊ | 0     | 0     | 0    
@@ -467,32 +467,32 @@ FormAttribute                                                  | [📈](https://
 RTCPeerConnectionSetRemoteDescriptionLegacyCompliant           | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1057) | ⣀⠔⠒⠒⠒⠒⠒⠊ | 0     | 0     | 0    
 V8SVGAElement_Target_AttributeGetter                           | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1109) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 RTCPeerConnectionSetRemoteDescriptionLegacyNoFailureCallback   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1056) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
-BackgroundSync                                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/745) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
+WindowMoveResizeMissingArguments                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/684) | ⠡⣀⣀⣀⣀⣀⣀⣀ | 0     | 0     | 0    
 RTCPeerConnectionSetRemoteDescriptionLegacyNoSuccessCallback   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1055) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 V8SVGClipPathElement_ClipPathUnits_AttributeGetter             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1110) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 RangeDetach                                                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/372) | ⠒⠉⠑⠒⠒⠒⢄⠢ | 0.06  | 0.04  | 0    
 FlexboxPercentagePaddingVertical                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/955) | ⣀⣀⣀⣀⡠⠢⠒⠊ | 0     | 0     | 0    
 RangeExpand                                                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/393) | ⠡⠢⢄⢄⡐⠡⣀⠒ | 0     | 0     | 0    
-CSSSelectorPseudoUnresolved                                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/466) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
-AttrTextContent                                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/349) | ⠤⠊⠉⠊⠒⠢⢄⢄ | 0.03  | 0.02  | 0    
-CryptoAlgorithmPbkdf2                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/738) | ⣀⣀⣀⣀⣀⢁⣀⣀ | 0     | 0     | 0    
+VTTCueRenderRtl                                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/418) | ⣀⣀⣀⣀⣀⣀⣀⢁ | 0     | 0     | 0    
+WindowPostMessageWithLegacyTargetOriginArgument                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/575) | ⠤⠔⠒⠉⠉⠒⢄⢄ | 0     | 0     | 0    
+VTTCueRender                                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/410) | ⢄⣀⣀⡐⠉⠑⠊⠉ | 0     | 0     | 0    
 Reflection                                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/55) | ⠉⠊⠢⠤⠤⠤⣀⣀ | 0.01  | 0.01  | 0    
 FileGetLastModifiedDate                                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/212) | ⠉⠉⠑⠒⠒⠢⢄⠤ | 0     | 0     | 0    
 RemoveEventListenerNoArguments                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/658) | ⣀⣀⣀⣀⠊⠢⠔⠊ | 0     | 0     | 0    
 FileError                                                      | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/126) | ⠉⠉⠡⠔⢄⣀⣀⣀ | 0     | 0     | 0    
 RemoveEventListenerOneArgument                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/659) | ⣀⣀⠤⠒⠉⠉⠒⠉ | 0     | 0     | 0    
-DocumentAllLegacyCall                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/150) | ⠉⠉⠢⠢⠔⠔⢄⠢ | 0.01  | 0     | 0    
+DocumentClear                                                  | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/74) | ⠉⠉⠢⠤⠤⡠⣀⣀ | 0     | 0     | 0    
 RemoveEventListenerThirdArgumentIsObject                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/968) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0     | 0     | 0    
 Fetch                                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/675) | ⠢⠊⢂⠒⠉⠤⣀⠌ | 0.06  | 0.04  | 0    
 RenderRuby                                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/576) | ⠑⠉⠢⡠⢄⣀⡠⠉ | 0.01  | 0     | 0    
 ExternalIsSearchProviderInstalled                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/982) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0     | 0     | 0    
-WindowPostMessageWithLegacyTargetOriginArgument                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/575) | ⠤⠔⠒⠉⠉⠒⢄⢄ | 0     | 0     | 0    
+WindowReleaseEvents                                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/290) | ⠑⠉⠑⠒⠔⠒⢄⠑ | 0     | 0     | 0    
 ExternalAddSearchProvider                                      | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/981) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 RequestAutocomplete                                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/965) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 ExecCommandOnInputOrTextarea                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1027) | ⣀⣀⠊⠒⠒⠒⠑⠉ | 0     | 0     | 0    
 RequestFileSystem                                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/508) | ⠤⠔⠒⠉⠉⠒⢄⠤ | 0.4   | 0.27  | 0    
-CryptoAlgorithmRsaOaep                                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/731) | ⠉⠒⠒⠤⠤⣀⡠⣀ | 0.01  | 0     | 0    
-CORSCredentialedNullOriginAccessAllowed                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/619) | ⠑⠒⢄⣀⣀⣀⣀⣀ | 0     | 0     | 0    
+ClientHintsContentDPR                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/906) | ⣀⣀⠉⠉⠒⠤⢄⣀ | 0     | 0     | 0    
+BreakIterator                                                  | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/556) | ⠤⠒⠉⠉⠉⠒⢄⠤ | 0.04  | 0.02  | 0    
 EventSourceURL                                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/254) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 RequestFileSystemSyncWorker                                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/510) | ⣀⣀⣀⣀⡈⣀⣀⣀ | 0     | 0     | 0    
 V8SVGElement_OffsetLeft_AttributeGetter                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/889) | ⣀⣀⣀⡐⠉⠑⠒⠒ | 0     | 0     | 0    
@@ -503,10 +503,10 @@ EventScoped                                                    | [📈](https://
 RequestMIDIAccessIframe                                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1143) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 V8SVGElement_OffsetTop_AttributeGetter                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/888) | ⣀⣀⣀⡐⠉⠉⠒⠒ | 0     | 0     | 0    
 RequestedSubresourceWithEmbeddedCredentials                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/532) | ⠉⠒⠢⠤⠤⠤⡠⣀ | 0.01  | 0     | 0    
-CryptoAlgorithmRsaSsaPkcs1v1_5                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/725) | ⠉⠒⠒⠤⠤⣀⡠⣀ | 0.01  | 0     | 0    
+CaseInsensitiveAttrSelectorMatch                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/244) | ⠉⠉⠑⠒⠒⠒⢄⠢ | 0.07  | 0.05  | 0    
 SendBeaconQuotaExceeded                                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/495) | ⡈⠑⠡⠤⠤⠒⠒⡠ | 0     | 0     | 0    
 V8SVGGraphicsElement_Transform_AttributeGetter                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1103) | ⣀⣀⢁⠑⠑⠒⠑⠒ | 0     | 0     | 0    
-V8Window_WebKitAnimationEvent_AttributeSetter                  | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/708) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
+DeprecatedFlexboxChromeExtension                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/63) | ⠤⠔⠉⠉⠉⠒⢄⠤ | 0.01  | 0     | 0    
 V8SVGPathElement_PathLength_AttributeGetter                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1113) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 SelectionType                                                  | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/404) | ⠒⠊⠒⠒⠒⠢⣀⠤ | 0.03  | 0.02  | 0    
 EventDeepPath                                                  | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1123) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
@@ -514,7 +514,7 @@ SelectionSetPosition                                           | [📈](https://
 V8SVGSVGElement_CreateSVGLength_Method                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1086) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 SRIElementIntegrityAttributeButIneligible                      | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/838) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 EncryptedMediaSecureOrigin                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/770) | ⡠⠤⠒⠉⠉⣀⣀⣀ | 0     | 0     | 0    
-V8Window_WebKitAnimationEvent_ConstructorGetter                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/707) | ⠒⠊⠡⠒⠊⠒⣀⠊ | 0.13  | 0.11  | 0    
+DeprecatedFlexboxChrome                                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/62) | ⠉⠉⠑⠒⠤⠤⣀⢄ | 0.01  | 0.01  | 0    
 EncryptedMediaInsecureOrigin                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/771) | ⡈⠉⠢⠤⠤⠤⠔⠤ | 0.01  | 0     | 0    
 SRIElementWithNonMatchingIntegrityAttribute                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/541) | ⣀⣀⣀⣀⣀⠢⣀⡈ | 0     | 0     | 0    
 ElementSetAttributeNodeNS                                      | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/216) | ⠑⠉⠉⠉⠉⠑⢄⠡ | 0     | 0     | 0    
@@ -548,7 +548,7 @@ SVGAnimatedTransformListBaseVal                                | [📈](https://
 ElementCreateShadowRootMultipleWithUserAgentShadowRoot         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/800) | ⣀⣀⡠⣀⠡⣀⣀⣀ | 0     | 0     | 0    
 SelectionSetBaseAndExtentNull                                  | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1084) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 ElementCreateShadowRootMultiple                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/779) | ⣀⣀⠌⠉⠉⠒⠤⠢ | 0     | 0     | 0    
-WindowReleaseEvents                                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/290) | ⠑⠉⠑⠒⠔⠒⢄⠑ | 0     | 0     | 0    
+WorkerAllowedByChildBlockedByScript                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/258) | ⣀⡠⠊⠤⠤⠤⠤⠢ | 0     | 0     | 0    
 V8SVGSVGElement_CurrentView_AttributeGetter                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/834) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0     | 0     | 0    
 SVGDocumentRootElement                                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/251) | ⣀⣀⣀⡠⠤⣀⣀⠌ | 0.03  | 0.01  | 0    
 ElementAnimateKeyframeListEffectObjectTiming                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/292) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
@@ -560,12 +560,12 @@ SVGElementXmlspace                                             | [📈](https://
 EditingAppleStyleSpanClass                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/461) | ⠉⠉⠉⠉⠉⠑⢂⠑ | 0     | 0     | 0    
 SVGFilterRes                                                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/749) | ⠊⠉⢄⣀⣀⣀⣀⣀ | 0     | 0     | 0    
 EditingAppleInterchangeNewline                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/458) | ⠒⠉⠢⠒⠤⠒⢄⠢ | 0.04  | 0.02  | 0    
-WindowDefaultStatus                                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/357) | ⠊⠢⢄⣀⠤⠒⠢⠊ | 0.36  | 0.28  | 0    
+V8Window_Prompt_Method                                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/952) | ⣀⣀⣀⣀⡠⠒⠉⠉ | 0     | 0     | 0    
 EditingAppleConvertedSpace                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/459) | ⠉⠉⠑⠒⠒⠒⢄⠢ | 0     | 0     | 0    
 SVGGraphicsElementGetTransformToElement                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/692) | ⡐⠊⠉⠉⠉⠉⣀⣀ | 0     | 0     | 0    
 V8SVGSVGElement_GetElementById_Method                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/778) | ⣀⣀⠔⠢⠔⠒⠢⠊ | 0     | 0     | 0    
 SVGHrefAnimVal                                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/759) | ⣀⡈⣀⣀⣀⣀⣀⣀ | 0     | 0     | 0    
-BorderImageWithBorderStyleNone                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1026) | ⣀⣀⠔⠊⠒⠔⠒⠊ | 0     | 0     | 0    
+WindowCaptureEvents                                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/289) | ⠉⠉⠢⠢⠤⠤⢄⢄ | 0.02  | 0.01  | 0    
 SVGHrefBaseVal                                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/758) | ⡐⠉⠒⠒⠒⠢⢄⠢ | 0     | 0     | 0    
 DocumentXPathCreateExpression                                  | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/295) | ⠑⠉⢂⢄⣀⠔⢄⠑ | 0     | 0     | 0    
 SVGLocatableFarthestViewportElement                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/205) | ⣀⣀⣀⢄⣀⣀⢄⠊ | 0     | 0     | 0    
@@ -580,17 +580,17 @@ SVGSMILAnimationInImage                                        | [📈](https://
 V8SVGSVGElement_ScreenPixelToMillimeterX_AttributeGetter       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/776) | ⣀⣀⠊⠉⠉⠑⣀⣀ | 0     | 0     | 0    
 ConsoleMarkTimeline                                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/102) | ⠉⣀⣀⣀⣀⣀⣀⣀ | 0     | 0     | 0    
 V8SVGSVGElement_ScreenPixelToMillimeterY_AttributeGetter       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/777) | ⣀⣀⠤⠊⠉⠡⣀⣀ | 0     | 0     | 0    
-CSSSelectorInternalPseudoListBox                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1062) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
+CSSKeyframesRuleInsertRule                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/605) | ⡠⠊⢄⣀⣀⣀⣀⣀ | 0     | 0     | 0    
 DocumentSetCharset                                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/427) | ⠉⠉⢄⣀⣀⣀⣀⣀ | 0.01  | 0     | 0    
 SelectionSetBaseAndExtent                                      | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/406) | ⠒⠊⠉⠉⠉⠒⢄⠢ | 0.04  | 0.02  | 0    
 DocumentReleaseEvents                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/288) | ⠢⠊⠒⠤⠒⠤⠔⡠ | 0     | 0     | 0    
 SVGSVGElementForceRedraw                                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/685) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
-CSSStyleSheetInsertRuleOptionalArg                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/198) | ⠑⠊⠑⠊⠒⠤⣀⣀ | 0.01  | 0.01  | 0    
+CSSFilterHueRotate                                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1018) | ⣀⣀⡐⠒⠒⠒⠒⠊ | 0     | 0     | 0    
 SVGSVGElementFragmentSVGViewElement                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1037) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 DocumentPointerLockElement                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/422) | ⣀⢄⣀⠤⠤⣀⣀⡈ | 0.03  | 0.01  | 0    
-WorkerAllowedByChildBlockedByScript                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/258) | ⣀⡠⠊⠤⠤⠤⠤⠢ | 0     | 0     | 0    
-V8SVGSVGElement_UseCurrentView_AttributeGetter                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/833) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0     | 0     | 0    
 XFrameOptionsSameOriginWithBadAncestorChain                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/60) | ⠉⠢⢄⠤⠤⣀⡠⡠ | 0.03  | 0.02  | 0    
+V8SVGSVGElement_UseCurrentView_AttributeGetter                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/833) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0     | 0     | 0    
+AttrCloneNode                                                  | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1034) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 V8SVGSVGElement_Viewport_AttributeGetter                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1095) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 SVGSVGElementSuspendRedraw                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/686) | ⣀⠤⠊⠉⠉⠒⢄⠤ | 0     | 0     | 0    
 V8SVGStyleElement_Disabled_AttributeGetter                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/798) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
@@ -600,69 +600,69 @@ SVGSVGElementUnsuspendRedrawAll                                | [📈](https://
 DocumentDesignModeEnabeld                                      | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1129) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 SVGStyleElementTitle                                           | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/519) | ⣀⠌⣀⣀⣀⣀⣀⣀ | 0     | 0     | 0    
 V8SVGStyleElement_Disabled_AttributeSetter                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/799) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
-DOMStringList_Item_AttributeGetter_IndexedDB                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/846) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
-BackgroundSyncRegister                                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1025) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
+DataElement                                                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1099) | ⠤⠤⡠⠤⠡⣀⠤⠌ | 0     | 0     | 0    
+BackgroundSync                                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/745) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 SVGTransformListConsolidate                                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/569) | ⠒⠉⠤⠔⠒⠒⢄⠉ | 0     | 0     | 0    
 DocumentCreateCDATASection                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/113) | ⠉⠑⠢⠤⠔⠤⣀⣀ | 0.01  | 0     | 0    
 SameOriginApplicationScript                                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1067) | ⡠⠤⠤⠤⠤⠒⠔⠌ | 0     | 0     | 0    
 DocumentCreateAttributeNS                                      | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/112) | ⠑⠉⠉⠉⠉⠉⢄⠡ | 0     | 0     | 0    
-DOMStringList_Contains_Method_Location                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/849) | ⣀⣀⠒⠒⠑⠒⠊⠒ | 0     | 0     | 0    
-CSSStyleSheetRemoveRule                                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/221) | ⠑⠒⢄⠤⠤⣀⡠⣀ | 0     | 0     | 0    
+V8Window_WebKitAnimationEvent_AttributeSetter                  | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/708) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
+AudioContextCreateBiquadFilter                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/632) | ⠤⢄⢁⣀⠤⡠⠔⣀ | 0     | 0     | 0    
 SameOriginTextScript                                           | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1066) | ⡠⠤⠒⠒⠒⠒⠔⠌ | 0.01  | 0     | 0    
-DocumentClear                                                  | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/74) | ⠉⠉⠢⠤⠤⡠⣀⣀ | 0     | 0     | 0    
+V8Window_WebKitAnimationEvent_ConstructorGetter                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/707) | ⠒⠊⠡⠒⠊⠒⣀⠊ | 0.13  | 0.11  | 0    
 SandboxViaCSP                                                  | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/673) | ⣀⠢⢄⠔⠒⠒⠒⠑ | 0     | 0     | 0    
-V8SecurityPolicyViolationEvent_BlockedURI_AttributeGetter      | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/807) | ⣀⣀⢂⣀⣀⣀⠒⠉ | 0     | 0     | 0    
+VTTCueRenderLineNotAuto                                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/413) | ⣀⣀⣀⣀⣀⣀⣀⠊ | 0     | 0     | 0    
 SelectionSelectAllChildren                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1010) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0     | 0     | 0    
-DocumentCaretRangeFromPoint                                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/387) | ⠒⠉⠢⠤⠤⠤⣀⠢ | 0.04  | 0.02  | 0    
+DOMStringList_Item_AttributeGetter_IndexedDB                   | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/846) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 ClipPathOfPositionedElement                                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/944) | ⣀⣀⣀⣀⡠⠒⠉⠉ | 0     | 0     | 0    
-V8SecurityPolicyViolationEvent_DocumentURI_AttributeGetter     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/806) | ⡠⣀⠡⢄⣀⣀⣀⠔ | 0     | 0     | 0    
+DOMStringList_Contains_Method_Location                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/849) | ⣀⣀⠒⠒⠑⠒⠊⠒ | 0     | 0     | 0    
 ScreenOrientationLock                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/559) | ⣀⣀⠤⣀⢄⣀⣀⠊ | 0     | 0     | 0    
-V8SecurityPolicyViolationEvent_StatusCode_AttributeGetter      | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/808) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
-CSSFilterOpacity                                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1020) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
-AudioContextCreateBufferSource                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/633) | ⣀⣀⣀⣀⠤⠤⠊⠤ | 0.07  | 0.03  | 0    
+CryptoAlgorithmAesCbc                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/723) | ⠤⠤⠤⣀⣀⣀⠊⠉ | 0.01  | 0     | 0    
+CryptoAlgorithmEcdh                                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/736) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
+CanPlayTypeKeySystem                                           | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/232) | ⠉⠉⠒⠒⠒⢄⣀⣀ | 0     | 0     | 0    
 ScreenOrientationUnlock                                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/560) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 DOMNodeRemovedFromDocumentEvent                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/146) | ⠡⠤⢄⣀⣀⠤⠤⠑ | 0.01  | 0     | 0    
-ClientRectListItem                                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/694) | ⠊⠤⣀⢄⣀⣀⣀⣀ | 0     | 0     | 0    
-CryptoAlgorithmSha384                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/728) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
-CSSSelectorInternalMediaControlsOverlayCastButton              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1064) | ⣀⣀⣀⣀⣀⣀⡐⡈ | 0     | 0     | 0    
+CSSAtRuleNamespace                                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/974) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0     | 0     | 0    
+CryptoAlgorithmAesGcm                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/730) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
+CSSKeyframesRuleAppendRule                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/604) | ⣀⠌⢁⣀⣀⣀⣀⣀ | 0     | 0     | 0    
 DOMNodeInsertedIntoDocumentEvent                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/147) | ⠉⠒⠢⠤⠤⣀⣀⣀ | 0.02  | 0.01  | 0    
-AttrCloneNode                                                  | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1034) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
+AttrChildChange                                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/601) | ⠉⠉⢄⣀⣀⣀⣀⣀ | 0     | 0     | 0    
 V8XPathEvaluator_CreateExpression_Method                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/854) | ⣀⣀⠉⠑⠉⠒⠢⠑ | 0     | 0     | 0    
-CSSKeyframesRuleInsertRule                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/605) | ⡠⠊⢄⣀⣀⣀⣀⣀ | 0     | 0     | 0    
+CSSKeyframesRuleAnonymousIndexedGetter                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/785) | ⣀⣀⠒⠒⠒⠒⠒⠉ | 0     | 0     | 0    
 DOMImplementationHasFeatureReturnFalse                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/231) | ⠡⣀⣀⣀⣀⣀⣀⣀ | 0     | 0     | 0    
 SelectionBaseNode                                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/400) | ⠒⠉⠑⠒⠒⠤⣀⢄ | 0     | 0     | 0    
 V8XPathEvaluator_CreateNSResolver_Method                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/855) | ⣀⣀⠉⠉⠉⠑⠒⠒ | 0     | 0     | 0    
 SelectionBaseOffset                                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/401) | ⠒⠊⠢⠒⠒⠔⣀⠢ | 0     | 0     | 0    
-CSSFilterHueRotate                                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1018) | ⣀⣀⡐⠒⠒⠒⠒⠊ | 0     | 0     | 0    
-CryptoAlgorithmSha512                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/729) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
+WindowDefaultStatus                                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/357) | ⠊⠢⢄⣀⠤⠒⠢⠊ | 0.36  | 0.28  | 0    
 SelectionCollapse                                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1006) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0.01  | 0     | 0    
+CanvasRenderingContext2DCompositeOperationDarker               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/577) | ⠤⠊⢂⢄⢄⡐⠤⠡ | 0.01  | 0.01  | 0    
 SelectionCollapseNull                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1083) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 VTTCue                                                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/409) | ⢂⠤⠢⠔⠒⠒⠉⠒ | 0.01  | 0     | 0    
 SelectionCollapseToEnd                                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1008) | ⣀⣀⣀⣀⣀⣀⣀⠌ | 0     | 0     | 0    
-AudioContextCreateConvolver                                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/636) | ⣀⠔⠒⠒⠤⠤⠌⣀ | 0     | 0     | 0    
+CryptoAlgorithmSha512                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/729) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 SelectionCollapseToStart                                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1007) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0     | 0     | 0    
-ClientHintsContentDPR                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/906) | ⣀⣀⠉⠉⠒⠤⢄⣀ | 0     | 0     | 0    
+CryptoAlgorithmSha384                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/728) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 SelectionContainsNode                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/525) | ⠡⠊⢂⠤⠤⠔⠤⠑ | 0     | 0     | 0    
-CastOverlayShown                                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/967) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0     | 0     | 0    
-AttrChildChange                                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/601) | ⠉⠉⢄⣀⣀⣀⣀⣀ | 0     | 0     | 0    
-CastOverlayClicked                                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/966) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0.03  | 0     | 0    
-SelectionDeleteDromDocument                                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1011) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
-CaseInsensitiveAttrSelectorMatch                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/244) | ⠉⠉⠑⠒⠒⠒⢄⠢ | 0.07  | 0.05  | 0    
+CryptoAlgorithmSha256                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/727) | ⠉⠒⠒⠤⠤⣀⡠⣀ | 0.01  | 0     | 0    
 AttrChildAccess                                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/600) | ⠉⠉⢄⣀⣀⣀⣀⣀ | 0     | 0     | 0    
-CanvasRenderingContext2DCompositeOperationDarker               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/577) | ⠤⠊⢂⢄⢄⡐⠤⠡ | 0.01  | 0.01  | 0    
-CSSFilterInvert                                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1019) | ⣀⣀⡠⠤⠢⠤⠤⠊ | 0     | 0     | 0    
-CanPlayTypeKeySystem                                           | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/232) | ⠉⠉⠒⠒⠒⢄⣀⣀ | 0     | 0     | 0    
+CryptoAlgorithmSha1                                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/726) | ⠉⠒⠒⠤⠤⣀⡠⣀ | 0.01  | 0     | 0    
+SelectionDeleteDromDocument                                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1011) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
+CryptoAlgorithmRsaSsaPkcs1v1_5                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/725) | ⠉⠒⠒⠤⠤⣀⡠⣀ | 0.01  | 0     | 0    
+XMLExternalResourceLoad                                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/529) | ⣀⣀⡠⣀⣀⠤⣀⠌ | 0     | 0     | 0    
+CryptoAlgorithmRsaOaep                                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/731) | ⠉⠒⠒⠤⠤⣀⡠⣀ | 0.01  | 0     | 0    
+ClientRectListItem                                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/694) | ⠊⠤⣀⢄⣀⣀⣀⣀ | 0     | 0     | 0    
+CryptoAlgorithmPbkdf2                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/738) | ⣀⣀⣀⣀⣀⢁⣀⣀ | 0     | 0     | 0    
 SelectionExtentNode                                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/402) | ⠒⠉⠑⠒⠒⠤⣀⠤ | 0     | 0     | 0    
-VTTCueRenderLineNotAuto                                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/413) | ⣀⣀⣀⣀⣀⣀⣀⠊ | 0     | 0     | 0    
+CryptoAlgorithmHmac                                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/724) | ⠉⠒⠒⠤⠤⣀⡠⣀ | 0.01  | 0     | 0    
 SelectionExtentOffset                                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/403) | ⢄⠔⢄⠊⠉⠒⢄⠡ | 0     | 0     | 0    
-VTTCueRenderPositionNot50                                      | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/414) | ⢄⣀⣀⠔⠉⠑⠊⠉ | 0     | 0     | 0    
-CSSKeyframesRuleAnonymousIndexedGetter                         | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/785) | ⣀⣀⠒⠒⠒⠒⠒⠉ | 0     | 0     | 0    
-BreakIterator                                                  | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/556) | ⠤⠒⠉⠉⠉⠒⢄⠤ | 0.04  | 0.02  | 0    
-CSSFilterSaturate                                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1017) | ⣀⣀⡠⠢⠒⠢⠒⠊ | 0     | 0     | 0    
+CryptoAlgorithmEcdsa                                           | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/735) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 CSSFilterSepia                                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1016) | ⣀⣀⣀⠑⠉⠉⠉⠑ | 0     | 0     | 0    
-CSSAtRuleNamespace                                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/974) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0     | 0     | 0    
+AudioContextCreateChannelSplitter                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/635) | ⣀⣀⣀⣀⣀⡠⠉⣀ | 0     | 0     | 0    
+CSSFilterReference                                             | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1014) | ⣀⣀⡠⠤⠊⠒⠤⠌ | 0     | 0     | 0    
+V8HTMLInputElement_Autocapitalize_AttributeGetter              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/754) | ⣀⣀⡠⠒⠊⠉⠒⠉ | 0     | 0     | 0    
+CSSFilterOpacity                                               | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1020) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 ListAttribute                                                  | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/41) | ⠤⠤⣀⡐⠤⠔⠊⠉ | 0.02  | 0.01  | 0    
-XSLProcessingInstruction                                       | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/78) | ⠑⠊⠢⠤⠤⠤⢄⠤ | 0     | 0     | 0    
+AddEventListenerThirdArgumentIsObject                          | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/967) | ⣀⣀⣀⣀⣀⣀⣀⡈ | 0     | 0     | 0    
 LinkHeaderPreload                                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/1124) | ⠂⠂⠂⠂⠂⠂⠂⠂ | 0     | 0     | 0    
 AddEventListenerNoArguments                                    | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/656) | ⣀⣀⣀⣀⡈⠔⣀⠤ | 0     | 0     | 0    
 SelectionModify                                                | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/405) | ⠉⠒⠢⠤⠤⠤⣀⠤ | 0     | 0     | 0    
@@ -711,7 +711,7 @@ DocumentDesignMode                                             | [📈](https://
 QuotedAnimationName                                            | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/571) | ⠑⠉⢂⡠⠤⠤⠤⠒ | 0.15  | 0.09  | -0.02
 MixedContentPrefetch                                           | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/617) | ⠉⠉⠢⠤⠤⠤⡠⠤ | 0.23  | 0.15  | -0.02
 HTMLImageElementY                                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/397) | ⠒⠑⠢⠤⢄⣀⣀⣀ | 0.14  | 0.09  | -0.02
-AnimationPlayerFinishEvent                                     | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/328) | ⠑⠉⠢⠤⢄⠤⢄⠢ | 0.27  | 0.16  | -0.02
+AnimationFinishEvent                                           | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/328) | ⠑⠉⠢⠤⢄⠤⢄⠢ | 0.27  | 0.16  | -0.02
 PrefixedWindowURL                                              | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/283) | ⠉⠒⠢⠒⠤⠤⣀⠤ | 0.15  | 0.11  | -0.03
 StyleMediaType                                                 | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/607) | ⠊⢂⡠⣀⠤⢄⣀⣀ | 0.14  | 0.06  | -0.03
 EventSetReturnValueTrue                                        | [📈](https://www.chromestatus.com/metrics/feature/timeline/popularity/352) | ⠒⠉⠢⠤⠤⠤⣀⠤ | 0.4   | 0.32  | -0.03
